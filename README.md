@@ -33,7 +33,6 @@
 | [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT?style=flat-square) | CUHK-SZ | Chinese medical LLM for clinical dialogue and medical Q&A. |
 | [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1?style=flat-square) | CUHK-SZ | Medical complex reasoning with o1-style thinking. |
 | [DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) | ![](https://img.shields.io/github/stars/FudanDISC/DISC-MedLLM?style=flat-square) | Fudan DISC | Medical dialogue LLM: smart consultation, medical Q&A, clinical record structuring. |
-| [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | — | Comprehensive curated paper list: LLMs in medicine. |
 
 ---
 
@@ -64,7 +63,7 @@
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | ⭐⭐ B | Healthcare RAG with Neo4j knowledge graphs. LangChain + FastAPI. |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | ⭐ C | Privacy-oriented multi-agent SLM for medical Q&A. Cloud-free, offline capable. |
 | [Isaree-Platform](https://github.com/Isaree-ai/Isaree-Platform) | — | ⭐ C | Open-source medical-compliant AI assistant and orchestration engine. |
-| [Multi_Agent_Medical_System](https://github.com/joyceannie/Multi_Agent_Medical_System) | — | ⭐ C | ICD-10 extractor, SOAP docs, medical image reports. Uses MedGemma. |
+| [Multi_Agent_Medical_System](https://github.com/joyceannie/Multi_Agent_Medical_System) | — | ⭐ C | ICD-10 code extraction, SOAP note generation, medical image analysis. LangGraph + MedGemma. |
 | [Prescriptly-AI](https://github.com/warshit/Prescriptly-AI) | — | ⭐ C | Autonomous agent for prescription interpretation. |
 | [Doctor_Agent](https://github.com/Ho3seinTork/Doctor_Agent) | — | ⭐ C 🔴 | AI medical assistant: symptom analysis, health data management. *(Stale)* |
 | [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C 🔴 | CrewAI for medical report summarization. *(Stale)* |
@@ -78,7 +77,7 @@
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | Generic structured document editor widely adopted as EMR editor in Chinese hospitals. |
+| [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | Generic structured document editor used as EMR editor in Chinese hospitals. Template support, structured data entry. |
 | [HIS (ZainZhao)](https://github.com/ZainZhao/HIS) | ![](https://img.shields.io/github/stars/ZainZhao/HIS?style=flat-square) | Hospital Information System. Outpatient/pharmacy/finance/patient workstations. Spring Boot. |
 | [HIS (TANGKUO)](https://github.com/TANGKUO/HIS) | ![](https://img.shields.io/github/stars/TANGKUO/HIS?style=flat-square) | Hospital Information System. Clinical, drug, finance, patient management. |
 | [Cloud Medical System](https://github.com/Rain-Ricky/cloud) | ![](https://img.shields.io/github/stars/Rain-Ricky/cloud?style=flat-square) | Online appointment, telemedicine, report lookup, billing. Spring Boot + frontend/backend separation. |
