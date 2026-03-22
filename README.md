@@ -18,6 +18,7 @@
 - [Medical Imaging & Radiology](#medical-imaging--radiology)
 - [Multi-Agent Medical Systems](#multi-agent-medical-systems)
 - [Clinical Software & EHR](#clinical-software--ehr)
+- [NLP & Text Mining](#nlp--text-mining)
 - [Research & Paper Collections](#research--paper-collections)
 - [Related Resources](#related-resources)
 
