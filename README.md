@@ -42,6 +42,9 @@
 | [Chinese-LLaVA-Med](https://github.com/BUAADreamer/Chinese-LLaVA-Med) | ![](https://img.shields.io/github/stars/BUAADreamer/Chinese-LLaVA-Med?style=flat-square) | ⭐ C | 中文医学多模态大模型 Large Chinese Language-and-Vision Assistant for BioMedicine |
 | [AI-Medical-Scribe](https://github.com/hutchpd/AI-Medical-Scribe) | ![](https://img.shields.io/github/stars/hutchpd/AI-Medical-Scribe?style=flat-square) | ⭐ C | Local-first AI medical scribe running entirely in the browser using Chrome built-in AI (no backend) |
 | [fondamenta-archcode](https://github.com/talionwar/fondamenta-archcode) | ![](https://img.shields.io/github/stars/talionwar/fondamenta-archcode?style=flat-square) | ⭐ C | Zero-dependency codebase intelligence for AI agents and humans. Static analysis → structured Markdown → readable by any LLM. 8 code health agents included. |
+| [MedicalRAGChatbot](https://github.com/FCHEHIDI/MedicalRAGChatbot) | ![](https://img.shields.io/github/stars/FCHEHIDI/MedicalRAGChatbot?style=flat-square) | ⭐ C | Production-ready Medical RAG Chatbot showcasing AI/ML engineering skills with local LLM integration and vector databases |
+| [LLM-Nursing-Training](https://github.com/mrpanzerr/LLM-Nursing-Training) | ![](https://img.shields.io/github/stars/mrpanzerr/LLM-Nursing-Training?style=flat-square) | ⭐ C | LLM Video Avatar for training nursing students through AI-driven simulations. Progresses from text-to-text to video-to-video interactions. Adaptive scenarios powered by GPT-4o enhance clinical skil... |
+| [consultation_registration_cos](https://github.com/Fankekeke/consultation_registration_cos) | ![](https://img.shields.io/github/stars/Fankekeke/consultation_registration_cos?style=flat-square) | ⭐ C | 智慧医疗助手：基于 LLM（大语言模型）的 AI 预诊与在线挂号平台。集成 RAG（检索增强生成）医疗知识库，支持多科室智能分诊与挂号流转。大模型辅助问诊 + 自动化挂号分拨，实时预约排班挂号管理（SpringBoot + Vue 全栈） |
 
 ---
 
@@ -128,7 +131,21 @@
 | [Clinical-LLM-Monitor](https://github.com/giakhanhhii/Clinical-LLM-Monitor) | ![](https://img.shields.io/github/stars/giakhanhhii/Clinical-LLM-Monitor?style=flat-square) | ⭐ C | *(no description)* |
 | [AIHospital](https://github.com/spjianke-source/AIHospital) | ![](https://img.shields.io/github/stars/spjianke-source/AIHospital?style=flat-square) | ⭐ C | An LLM-powered multi-agent hospital simulation platform for clinical reasoning, role-based norm compliance, and interactive healthcare training. |
 | [phi-redactor](https://github.com/DilawarShafiq/phi-redactor) | ![](https://img.shields.io/github/stars/DilawarShafiq/phi-redactor?style=flat-square) | ⭐ C | HIPAA-native PHI redaction proxy for AI/LLM interactions. Detects and masks all 18 Safe Harbor identifiers with clinically coherent synthetic replacements. |
+| [Prior-Authorization-Multi-Agent-Solution-Accelerator](https://github.com/microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator) | ![](https://img.shields.io/github/stars/microsoft/Prior-Authorization-Multi-Agent-Solution-Accelerator?style=flat-square) | ⭐ C | Payer-side AI-assisted prior authorization review using Microsoft Agent Framework with four Foundry Hosted Agents (Compliance, Clinical, Coverage, Synthesis). Gate-based decision rubric, MCP health... |
+| [Post-Discharge-Medical-AI-Assistant-POC](https://github.com/nehaabhalerao/Post-Discharge-Medical-AI-Assistant-POC) | ![](https://img.shields.io/github/stars/nehaabhalerao/Post-Discharge-Medical-AI-Assistant-POC?style=flat-square) | ⭐ C | You'll demonstrate core GenAI skills including RAG implementation, multi-agent orchestration, and medical data processing in a simplified but functional system. |
+| [claude-medical-code-extraction](https://github.com/michalekb11/claude-medical-code-extraction) | ![](https://img.shields.io/github/stars/michalekb11/claude-medical-code-extraction?style=flat-square) | ⭐ C | Use Claude 2.0 to extract lists of medical billing codes from unstructured PDFs |
+| [Nitinol](https://github.com/YQZ11111/Nitinol) | ![](https://img.shields.io/github/stars/YQZ11111/Nitinol?style=flat-square) | ⭐ C | 一个现代化的智能医疗助理平台，旨在通过 AI 技术让就医更简单，让健康触手可及. a modern smart medical assistant platform that aims to make healthcare simpler and health within reach through AI technology. |
+| [hit-webinar.github.io](https://github.com/hit-webinar/hit-webinar.github.io) | ![](https://img.shields.io/github/stars/hit-webinar/hit-webinar.github.io?style=flat-square) | ⭐ C | 关注医疗智能科技相关的中文网络研讨会 |
+| [Medical-Multi-Agent-Co-Pilot](https://github.com/wzm110/Medical-Multi-Agent-Co-Pilot) | ![](https://img.shields.io/github/stars/wzm110/Medical-Multi-Agent-Co-Pilot?style=flat-square) | ⭐ C | 本项目旨在解决医疗场景中“挂错号”、基层诊疗能力不足及AI模型“黑箱”问题，设计并实现一个模拟“多学科会诊”模式的可解释智能系统。项目以 LangGraph 作为核心工作流编排框架，结合Ollama本地化部署开源大模型，通过Docker进行容器化部署， 构建了一个包含症状采集、分诊调度、专科诊断与决策融合的四智能体协作原型，最终通过严谨的评估验证了该系统在提升分诊准确性与就医效率方面的有效性。 |
+| [rytzuXVNNP](https://github.com/3886370410/rytzuXVNNP) | ![](https://img.shields.io/github/stars/3886370410/rytzuXVNNP?style=flat-square) | ⭐ C | 本项目是一款智能骨折诊断系统，采用YOLO与大模型技术，可实现高效准确的骨折图像识别。系统具备以下功能模块：骨折图像预处理、深度学习模型训练、实时骨折检测与定位、诊断结果展示与统计。系统具有快速识别、高准确率、易用性强等特点，适用于医疗机构和临床诊断。 |
+| [tumor-ai-analysis-system](https://github.com/fish0976/tumor-ai-analysis-system) | ![](https://img.shields.io/github/stars/fish0976/tumor-ai-analysis-system?style=flat-square) | ⭐ C | 基于 SpringBoot + 通义千问多模态大模型的肿瘤影像 AI 分析系统，实现影像上传、AI 诊断、PDF 报告生成、数据管理全流程，适配医疗场景做工程化优化。 |
+| [Agent-based-Intelligent-Triage--LangGraph](https://github.com/MsZml/Agent-based-Intelligent-Triage--LangGraph) | ![](https://img.shields.io/github/stars/MsZml/Agent-based-Intelligent-Triage--LangGraph?style=flat-square) | ⭐ C | 本项目基于 LangGraph 实现了医疗智能分诊的完整工作流，核心是状态图驱动的 Agent + 工具调用模式，支持意图分析、工具并行调用、结果评分、查询重写等关键环节； 技术栈上兼容多类大模型，通过 PostgreSQL+pgvector 实现持久化存储，同时提供 API 和 WebUI 两种交互方式 |
 ## Clinical Software & EHR
+| [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | ![](https://img.shields.io/github/stars/erickyegon/clinical-doc-intelligence?style=flat-square) | ⭐ C | AI-powered FDA drug label intelligence platform — production RAG with 5-stage retrieval, multi-agent orchestration, clinical guardrails, and 54 automated tests |
+| [fhir4java-agents](https://github.com/sg-victorchai/fhir4java-agents) | ![](https://img.shields.io/github/stars/sg-victorchai/fhir4java-agents?style=flat-square) | ⭐ C | A lightweight Java FHIR API server for configuration-driven HL7 FHIR based services with AI capabilities, support both native and MCP plugins for extensible healthcare APIs and workflows |
+| [ClinicSim-AI](https://github.com/peienwu1216/ClinicSim-AI) | ![](https://img.shields.io/github/stars/peienwu1216/ClinicSim-AI?style=flat-square) | ⭐ C | AI-powered clinical skills training platform for medical students |
+| [MR4CPS](https://github.com/peihuacher/MR4CPS) | ![](https://img.shields.io/github/stars/peihuacher/MR4CPS?style=flat-square) | ⭐ C | MR4CPS is a Portable AI-powered Mixed Reality system for Clinical Procedural Skills training. Here we document how we integrate LLM into mr4cps. |
+| [medical-voice-agent](https://github.com/ibrahimhamwi99/medical-voice-agent) | ![](https://img.shields.io/github/stars/ibrahimhamwi99/medical-voice-agent?style=flat-square) | ⭐ C | 🤖 Streamline appointment management with an AI voice agent that handles calls, schedules, and integrates seamlessly with EHR systems for medical practices. |
 
 > Open-source clinical systems, EMR editors, and hospital information systems.
 
@@ -141,6 +158,7 @@
 
 ---
 
+| [met-bot](https://github.com/onesky2015/met-bot) | ![](https://img.shields.io/github/stars/onesky2015/met-bot?style=flat-square) | ⭐ C | A multi-model AI bot tracking pediatric SLE research updates. 关注儿童红斑狼疮医疗情报的 AI 机器人 |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
