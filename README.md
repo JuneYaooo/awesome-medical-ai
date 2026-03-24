@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--22-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--24-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -80,6 +80,7 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | ⭐⭐ B | Multi-agent diagnostics and healthcare research chatbot. |
+| [MedSci Agent](https://github.com/omar-A-hassan/medsci-agent) | ![](https://img.shields.io/github/stars/omar-A-hassan/medsci-agent?style=flat-square) | ⭐⭐ B | Open-source biomedical research agent with 28 MCP tools for literature search, omics workflows, drug ADMET prediction, protein structure search, document acquisition, and medical image interpretation. Local MedGemma/TxGemma support via Ollama. |
 | [MMedAgent](https://github.com/Wangyixinxin/MMedAgent) | ![](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent?style=flat-square) | ⭐ C | Learning to Use Medical Tools with Multi-modal Agent |
 | [Meissa](https://github.com/Schuture/Meissa) | ![](https://img.shields.io/github/stars/Schuture/Meissa?style=flat-square) | ⭐ C | Meissa is a multi-modal medical agent, built on trajectory-based agentic behavior distillation framework. |
 | [PortOS](https://github.com/atomantic/PortOS) | ![](https://img.shields.io/github/stars/atomantic/PortOS?style=flat-square) | ⭐ C | Self-hosted dev machine OS — app management, AI agent orchestration, digital twin, second brain, and health tracking from a single dashboard over Tailscale |
