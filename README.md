@@ -70,6 +70,7 @@
 | [CPMP](https://github.com/lyotvincent/CPMP) | ![](https://img.shields.io/github/stars/lyotvincent/CPMP?style=flat-square) | ⭐ C | CPMP: AI-driven computational pathology for recurrence risk assessment in early-stage breast cancer |
 | [medical-ai-assistant](https://github.com/upmikodev/medical-ai-assistant) | ![](https://img.shields.io/github/stars/upmikodev/medical-ai-assistant?style=flat-square) | ⭐ C | A multi-agent AI platform for medical imaging diagnostics—integrating tumor classification, segmentation, RAG-powered patient data retrieval, and automated report generation via a FastAPI backend a... |
 | [medical-imaging-ai-pneumonia-detector](https://github.com/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector) | ![](https://img.shields.io/github/stars/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector?style=flat-square) | ⭐ C | Deep learning system for pneumonia detection from chest X‑rays with explainable AI heatmaps (Grad‑CAM). Built with TensorFlow and Streamlit. Achieves ~90% accuracy. |
+| [med-gemma-critical-imaging-copilot](https://github.com/DRZ-hang/med-gemma-critical-imaging-copilot) | ![](https://img.shields.io/github/stars/DRZ-hang/med-gemma-critical-imaging-copilot?style=flat-square) | ⭐ C+ | Physician-gated critical imaging workflow that turns MedGemma findings into emergency, outpatient, and radiology coordination actions. 8 agents, local mock mode, web dashboard, and tests. |
 
 ---
 
@@ -118,6 +119,7 @@
 | [Doctor_Agent](https://github.com/Ho3seinTork/Doctor_Agent) | — | ⭐ C 🔴 | AI medical assistant: symptom analysis, health data management. *(Stale)* |
 | [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C 🔴 | CrewAI for medical report summarization. *(Stale)* |
 | [MediCARE](https://github.com/giuseppericcio/MediCARE) | — | ⭐ C 🔴 | Collaborative agents over heterogeneous medical graphs. *(Stale)* |
+| [HERA](https://github.com/Nerdboss-stm/hera-healthcare-ai) | ![](https://img.shields.io/github/stars/Nerdboss-stm/hera-healthcare-ai?style=flat-square) | ⭐⭐ B- | Production-style healthcare AI platform combining triage/diagnostic/treatment agents, biomedical NER, RAG, FHIR R4, observability, and a 9-stage patient pipeline. Dockerized with 104 tests and a live demo. |
 
 ---
 
