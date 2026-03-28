@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--27-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--28-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -87,6 +87,8 @@
 | [TorchIO](https://github.com/TorchIO-project/torchio) | ![](https://img.shields.io/github/stars/TorchIO-project/torchio?style=flat-square) | ⭐⭐⭐ A- | Mature PyTorch toolkit for medical image preprocessing, augmentation, patch sampling, and reconstruction, with extensive docs, tutorials, and tests. |
 | [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | ![](https://img.shields.io/github/stars/TissueImageAnalytics/tiatoolbox?style=flat-square) | ⭐⭐⭐ A- | Production-grade computational pathology toolbox with whole-slide IO, patch extraction, stain normalization, pretrained models, benchmarks, and docs. |
 | [PathML](https://github.com/Dana-Farber-AIOS/pathml) | ![](https://img.shields.io/github/stars/Dana-Farber-AIOS/pathml?style=flat-square) | ⭐⭐ B+ | Digital pathology toolkit with Docker images, notebooks, docs, and AI-assisted workflow examples for large whole-slide image analysis. |
+| [PathAsst](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) | ![](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology?style=flat-square) | ⭐⭐ B- | Pathology multimodal assistant with 207K image-text pairs, a PathCLIP encoder, eight pathology sub-models, and released code for data construction, training, and demo workflows. |
+| [MedSegAgent](https://github.com/uni-medical/MedSegAgent) | ![](https://img.shields.io/github/stars/uni-medical/MedSegAgent?style=flat-square) | ⭐ C+ | Multi-agent medical image segmentation system that routes natural-language requests across 23 dataset-specific models and 343 targets spanning CT, MRI, PET/CT, and ultrasound. |
 | [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | ⭐ C | Multi-agent radiology analysis concept/demo. 6 specialized agents (Image Analysis, Diagnostician, Intervention Planner, QA, Clinical Integrator, Treatment). *(Note: conceptual — minimal implementation)* |
 | [EasyLung](https://github.com/TommyZihao/EasyLung) | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | ⭐⭐ B | AI pneumonia detection from chest X-rays. Web, WeChat mini-program, and APP. |
 | [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | — | ⭐ C | Liver cancer imaging diagnosis (3D-Conv deep learning). |
@@ -184,6 +186,7 @@
 | [ClinicSim-AI](https://github.com/peienwu1216/ClinicSim-AI) | ![](https://img.shields.io/github/stars/peienwu1216/ClinicSim-AI?style=flat-square) | ⭐ C | AI-powered clinical skills training platform for medical students |
 | [MR4CPS](https://github.com/peihuacher/MR4CPS) | ![](https://img.shields.io/github/stars/peihuacher/MR4CPS?style=flat-square) | ⭐ C | MR4CPS is a Portable AI-powered Mixed Reality system for Clinical Procedural Skills training. Here we document how we integrate LLM into mr4cps. |
 | [medical-voice-agent](https://github.com/ibrahimhamwi99/medical-voice-agent) | ![](https://img.shields.io/github/stars/ibrahimhamwi99/medical-voice-agent?style=flat-square) | ⭐ C | 🤖 Streamline appointment management with an AI voice agent that handles calls, schedules, and integrates seamlessly with EHR systems for medical practices. |
+| [MedSync-AI](https://github.com/tirth-patel06/MedSync-AI) | ![](https://img.shields.io/github/stars/tirth-patel06/MedSync-AI?style=flat-square) | ⭐ C+ | Medication-adherence assistant with a React/Express stack, reminders, drug interaction checks, report analysis, and AI health agents. Includes architecture, security, and EHR/wearable integration docs. |
 
 > Open-source clinical systems, EMR editors, and hospital information systems.
 
