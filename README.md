@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--28-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--29-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -19,6 +19,7 @@
 - [Multi-Agent Medical Systems](#multi-agent-medical-systems)
 - [Clinical Software & EHR](#clinical-software--ehr)
 - [NLP & Text Mining](#nlp--text-mining)
+- [Biomedical Research & Drug Discovery](#biomedical-research--drug-discovery)
 - [Research & Paper Collections](#research--paper-collections)
 - [Related Resources](#related-resources)
 
@@ -88,6 +89,7 @@
 | [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | ![](https://img.shields.io/github/stars/TissueImageAnalytics/tiatoolbox?style=flat-square) | ⭐⭐⭐ A- | Production-grade computational pathology toolbox with whole-slide IO, patch extraction, stain normalization, pretrained models, benchmarks, and docs. |
 | [PathML](https://github.com/Dana-Farber-AIOS/pathml) | ![](https://img.shields.io/github/stars/Dana-Farber-AIOS/pathml?style=flat-square) | ⭐⭐ B+ | Digital pathology toolkit with Docker images, notebooks, docs, and AI-assisted workflow examples for large whole-slide image analysis. |
 | [PathAsst](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) | ![](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology?style=flat-square) | ⭐⭐ B- | Pathology multimodal assistant with 207K image-text pairs, a PathCLIP encoder, eight pathology sub-models, and released code for data construction, training, and demo workflows. |
+| [LitePath](https://github.com/caiyu6666/LitePath) | ![](https://img.shields.io/github/stars/caiyu6666/LitePath?style=flat-square) | ⭐⭐ B | Efficient computational pathology framework with a distilled LiteFM backbone and adaptive patch selector for whole-slide tasks. Includes training/inference code, deployment assets, and released checkpoints/examples. |
 | [MedSegAgent](https://github.com/uni-medical/MedSegAgent) | ![](https://img.shields.io/github/stars/uni-medical/MedSegAgent?style=flat-square) | ⭐ C+ | Multi-agent medical image segmentation system that routes natural-language requests across 23 dataset-specific models and 343 targets spanning CT, MRI, PET/CT, and ultrasound. |
 | [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | ⭐ C | Multi-agent radiology analysis concept/demo. 6 specialized agents (Image Analysis, Diagnostician, Intervention Planner, QA, Clinical Integrator, Treatment). *(Note: conceptual — minimal implementation)* |
 | [EasyLung](https://github.com/TommyZihao/EasyLung) | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | ⭐⭐ B | AI pneumonia detection from chest X-rays. Web, WeChat mini-program, and APP. |
@@ -207,6 +209,17 @@
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | CCKS2019 Chinese clinical NER: diseases, anatomy, imaging, lab tests, surgery, drugs (6 entity types). |
+
+---
+
+## Biomedical Research & Drug Discovery
+
+> AI platforms for biomolecular modeling, virtual screening, and pharma R&D workflows.
+
+| Project | Stars | Grade | Description |
+|---------|-------|-------|-------------|
+| [BioNeMo Framework](https://github.com/NVIDIA/bionemo-framework) | ![](https://img.shields.io/github/stars/NVIDIA/bionemo-framework?style=flat-square) | ⭐⭐⭐ A- | NVIDIA's digital-biology framework for training and adapting biomolecular transformer models at scale. Ships with GPU-optimized recipes, benchmarked biological foundation models, extensive docs, and active CI. |
+| [AIAgents4Pharma](https://github.com/VirtualPatientEngine/AIAgents4Pharma) | ![](https://img.shields.io/github/stars/VirtualPatientEngine/AIAgents4Pharma?style=flat-square) | ⭐⭐ B | Pharma R&D agent suite with Docker/uv installs, docs, and modules for BioModels, knowledge graphs, literature mining, single-cell workflows, and multi-agent orchestration. |
 
 ---
 
