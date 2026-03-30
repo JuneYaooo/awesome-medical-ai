@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--29-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -83,6 +83,7 @@
 | [XRayGPT](https://github.com/mbzuai-oryx/XRayGPT) | ![](https://img.shields.io/github/stars/mbzuai-oryx/XRayGPT?style=flat-square) | ⭐⭐ B | Chest radiograph summarization model with demo, checkpoints, and a medical VLM training pipeline. |
 | [ChatCAD](https://github.com/zhaozh10/ChatCAD) | ![](https://img.shields.io/github/stars/zhaozh10/ChatCAD?style=flat-square) | ⭐⭐ B | Interactive computer-aided diagnosis system that combines LLM dialogue with radiology and image-analysis workflows. |
 | [XrayGLM](https://github.com/WangRongsheng/XrayGLM) | ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM?style=flat-square) | ⭐⭐ B- | Chinese chest X-ray multimodal model with translated report datasets, fine-tuning guides, and released academic weights. |
+| [ImpressionGPT](https://github.com/MoMarky/ImpressionGPT) | ![](https://img.shields.io/github/stars/MoMarky/ImpressionGPT?style=flat-square) | ⭐ C+ | Iterative ChatGPT-based radiology report summarization framework with released code, paper link, and benchmark-oriented workflow for impression generation. |
 | [Med-Flamingo](https://github.com/snap-stanford/med-flamingo) | ![](https://img.shields.io/github/stars/snap-stanford/med-flamingo?style=flat-square) | ⭐⭐ B | Medical vision-language model from Stanford with released paper code, setup instructions, and demo scripts for multimodal medical QA. |
 | [SkinGPT-4](https://github.com/JoshuaChou2018/SkinGPT-4) | ![](https://img.shields.io/github/stars/JoshuaChou2018/SkinGPT-4?style=flat-square) | ⭐⭐ B- | Dermatology multimodal LLM with Nature Communications paper, training/eval code, and published test weights for skin-disease QA. |
 | [TorchIO](https://github.com/TorchIO-project/torchio) | ![](https://img.shields.io/github/stars/TorchIO-project/torchio?style=flat-square) | ⭐⭐⭐ A- | Mature PyTorch toolkit for medical image preprocessing, augmentation, patch sampling, and reconstruction, with extensive docs, tutorials, and tests. |
@@ -183,6 +184,7 @@
 ## Clinical Software & EHR
 | [HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) | ![](https://img.shields.io/github/stars/LifeValue/HealthWallet.me?style=flat-square) | ⭐⭐ B | Offline-first mobile health record manager with on-device AI, local document parsing, and FHIR R4 connectivity to 52K+ US healthcare providers. |
 | [Open Wearables](https://github.com/the-momentum/open-wearables) | ![](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square) | ⭐⭐ B | Self-hosted wearable-data platform with a unified API, developer portal, and AI-ready natural-language automations across Apple Health, Garmin, Oura, WHOOP, Fitbit, and more. |
+| [KinCare](https://github.com/NanshineLoong/KinCare) | ![](https://img.shields.io/github/stars/NanshineLoong/KinCare?style=flat-square) | ⭐ C+ | Self-hosted family health space with AI chat/voice assistance, unified household health profiles, daily insights, role-based permissions, and Docker-based deployment. |
 | [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | ![](https://img.shields.io/github/stars/erickyegon/clinical-doc-intelligence?style=flat-square) | ⭐ C | AI-powered FDA drug label intelligence platform — production RAG with 5-stage retrieval, multi-agent orchestration, clinical guardrails, and 54 automated tests |
 | [fhir4java-agents](https://github.com/sg-victorchai/fhir4java-agents) | ![](https://img.shields.io/github/stars/sg-victorchai/fhir4java-agents?style=flat-square) | ⭐ C | A lightweight Java FHIR API server for configuration-driven HL7 FHIR based services with AI capabilities, support both native and MCP plugins for extensible healthcare APIs and workflows |
 | [ClinicSim-AI](https://github.com/peienwu1216/ClinicSim-AI) | ![](https://img.shields.io/github/stars/peienwu1216/ClinicSim-AI?style=flat-square) | ⭐ C | AI-powered clinical skills training platform for medical students |
@@ -219,7 +221,11 @@
 | Project | Stars | Grade | Description |
 |---------|-------|-------|-------------|
 | [BioNeMo Framework](https://github.com/NVIDIA/bionemo-framework) | ![](https://img.shields.io/github/stars/NVIDIA/bionemo-framework?style=flat-square) | ⭐⭐⭐ A- | NVIDIA's digital-biology framework for training and adapting biomolecular transformer models at scale. Ships with GPU-optimized recipes, benchmarked biological foundation models, extensive docs, and active CI. |
+| [scvi-tools](https://github.com/scverse/scvi-tools) | ![](https://img.shields.io/github/stars/scverse/scvi-tools?style=flat-square) | ⭐⭐⭐ A- | Mature probabilistic modeling toolkit for single-cell and spatial omics, with extensive docs, tutorials, benchmarks, and active community maintenance on top of PyTorch and AnnData. |
+| [cBioPortal](https://github.com/cBioPortal/cbioportal) | ![](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=flat-square) | ⭐⭐⭐ A- | Widely used cancer genomics portal for exploring, visualizing, and downloading large-scale oncology datasets. Strong docs, deployment guides, and an active production codebase. |
 | [AIAgents4Pharma](https://github.com/VirtualPatientEngine/AIAgents4Pharma) | ![](https://img.shields.io/github/stars/VirtualPatientEngine/AIAgents4Pharma?style=flat-square) | ⭐⭐ B | Pharma R&D agent suite with Docker/uv installs, docs, and modules for BioModels, knowledge graphs, literature mining, single-cell workflows, and multi-agent orchestration. |
+| [asapdiscovery](https://github.com/asapdiscovery/asapdiscovery) | ![](https://img.shields.io/github/stars/asapdiscovery/asapdiscovery?style=flat-square) | ⭐⭐ B | Consortium-backed open antiviral drug-discovery toolkit with structure-based workflows, notebooks, documentation, and Python packaging for reproducible research. |
+| [scAgent](https://github.com/AI4S-YB/scAgent) | ![](https://img.shields.io/github/stars/AI4S-YB/scAgent?style=flat-square) | ⭐ C+ | Agentic single-cell analysis platform with a Go control plane, Python runtime, web UI, 32 executable skills, workspace persistence, and optional WeChat bridge. |
 
 ---
 
