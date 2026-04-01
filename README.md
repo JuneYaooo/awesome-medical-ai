@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--31-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--01-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -90,9 +90,11 @@
 | [TorchIO](https://github.com/TorchIO-project/torchio) | ![](https://img.shields.io/github/stars/TorchIO-project/torchio?style=flat-square) | ⭐⭐⭐ A- | Mature PyTorch toolkit for medical image preprocessing, augmentation, patch sampling, and reconstruction, with extensive docs, tutorials, and tests. |
 | [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | ![](https://img.shields.io/github/stars/TissueImageAnalytics/tiatoolbox?style=flat-square) | ⭐⭐⭐ A- | Production-grade computational pathology toolbox with whole-slide IO, patch extraction, stain normalization, pretrained models, benchmarks, and docs. |
 | [PathML](https://github.com/Dana-Farber-AIOS/pathml) | ![](https://img.shields.io/github/stars/Dana-Farber-AIOS/pathml?style=flat-square) | ⭐⭐ B+ | Digital pathology toolkit with Docker images, notebooks, docs, and AI-assisted workflow examples for large whole-slide image analysis. |
+| [Kaapana](https://github.com/kaapana/kaapana) | ![](https://img.shields.io/github/stars/kaapana/kaapana?style=flat-square) | ⭐⭐ B+ | Kubernetes-native platform for medical imaging and data-analysis workflows with PACS/DICOM integration, federated learning support, extension-based deployment, and strong operational docs. |
 | [PathAsst](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) | ![](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology?style=flat-square) | ⭐⭐ B- | Pathology multimodal assistant with 207K image-text pairs, a PathCLIP encoder, eight pathology sub-models, and released code for data construction, training, and demo workflows. |
 | [LitePath](https://github.com/caiyu6666/LitePath) | ![](https://img.shields.io/github/stars/caiyu6666/LitePath?style=flat-square) | ⭐⭐ B | Efficient computational pathology framework with a distilled LiteFM backbone and adaptive patch selector for whole-slide tasks. Includes training/inference code, deployment assets, and released checkpoints/examples. |
 | [MAMMOTH](https://github.com/mahmoodlab/MAMMOTH) | ![](https://img.shields.io/github/stars/mahmoodlab/MAMMOTH?style=flat-square) | ⭐⭐ B- | Computational pathology module from Mahmood Lab that replaces the MIL patch projection layer with a mixture-of-mini-experts design. Ships as a Python package with examples, PyPI release metadata, and paper-backed implementation details. |
+| [MOOZY](https://github.com/AtlasAnalyticsLab/MOOZY) | ![](https://img.shields.io/github/stars/AtlasAnalyticsLab/MOOZY?style=flat-square) | ⭐ C+ | Patient-first computational pathology foundation model trained on 77K+ public whole-slide images, with released configs, notebooks, checkpoints, and reproducible pathology workflows. |
 | [MedSegAgent](https://github.com/uni-medical/MedSegAgent) | ![](https://img.shields.io/github/stars/uni-medical/MedSegAgent?style=flat-square) | ⭐ C+ | Multi-agent medical image segmentation system that routes natural-language requests across 23 dataset-specific models and 343 targets spanning CT, MRI, PET/CT, and ultrasound. |
 | [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | ⭐ C | Multi-agent radiology analysis concept/demo. 6 specialized agents (Image Analysis, Diagnostician, Intervention Planner, QA, Clinical Integrator, Treatment). *(Note: conceptual — minimal implementation)* |
 | [EasyLung](https://github.com/TommyZihao/EasyLung) | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | ⭐⭐ B | AI pneumonia detection from chest X-rays. Web, WeChat mini-program, and APP. |
@@ -151,6 +153,7 @@
 | [Awesome-Self-Evolving-AI-for-Agentic-Healthcare](https://github.com/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare) | ![](https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare?style=flat-square) | ⭐ C | *(no description)* |
 | [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | ⭐⭐ B | Multi-modal medical agent with knowledge graph. Local deployment, Chinese native. Disease diagnosis, medical record analysis. |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | ⭐⭐ B+ | XJTU — Biomedical AI research orchestrator. Integrates 140+ K-Dense scientific skills via Claude Code + OpenClaw. Supports WhatsApp/Slack/Feishu/Discord interfaces. |
+| [HealthFlow](https://github.com/yhzhu99/HealthFlow) | ![](https://img.shields.io/github/stars/yhzhu99/HealthFlow?style=flat-square) | ⭐⭐ B- | Self-evolving healthcare-research agent framework with meta-planning, hypothesis generation, retrieval, and evaluation loops for autonomous literature-guided medical research workflows. |
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | ⭐⭐ B | Healthcare RAG with Neo4j knowledge graphs. LangChain + FastAPI. |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | ⭐ C | Privacy-oriented multi-agent SLM for medical Q&A. Cloud-free, offline capable. |
 | [Isaree-Platform](https://github.com/Isaree-ai/Isaree-Platform) | — | ⭐ C | Open-source medical-compliant AI assistant and orchestration engine. |
@@ -199,6 +202,7 @@
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | Generic structured document editor used as EMR editor in Chinese hospitals. Template support, structured data entry. |
+| [carlos](https://github.com/carlos-emr/carlos) | ![](https://img.shields.io/github/stars/carlos-emr/carlos?style=flat-square) | Open-source EMR for Canadian healthcare with HL7/FHIR interoperability, Java/Spring services, Docker-based deployment, and a clear contribution/development workflow. |
 | [HIS (ZainZhao)](https://github.com/ZainZhao/HIS) | ![](https://img.shields.io/github/stars/ZainZhao/HIS?style=flat-square) | Hospital Information System. Outpatient/pharmacy/finance/patient workstations. Spring Boot. |
 | [HIS (TANGKUO)](https://github.com/TANGKUO/HIS) | ![](https://img.shields.io/github/stars/TANGKUO/HIS?style=flat-square) | Hospital Information System. Clinical, drug, finance, patient management. |
 | [Cloud Medical System](https://github.com/Rain-Ricky/cloud) | ![](https://img.shields.io/github/stars/Rain-Ricky/cloud?style=flat-square) | Online appointment, telemedicine, report lookup, billing. Spring Boot + frontend/backend separation. |
@@ -228,6 +232,7 @@
 | [AIAgents4Pharma](https://github.com/VirtualPatientEngine/AIAgents4Pharma) | ![](https://img.shields.io/github/stars/VirtualPatientEngine/AIAgents4Pharma?style=flat-square) | ⭐⭐ B | Pharma R&D agent suite with Docker/uv installs, docs, and modules for BioModels, knowledge graphs, literature mining, single-cell workflows, and multi-agent orchestration. |
 | [asapdiscovery](https://github.com/asapdiscovery/asapdiscovery) | ![](https://img.shields.io/github/stars/asapdiscovery/asapdiscovery?style=flat-square) | ⭐⭐ B | Consortium-backed open antiviral drug-discovery toolkit with structure-based workflows, notebooks, documentation, and Python packaging for reproducible research. |
 | [CASSIA](https://github.com/ElliotXie/CASSIA) | ![](https://img.shields.io/github/stars/ElliotXie/CASSIA?style=flat-square) | ⭐⭐ B | Multi-agent single-cell cell-type annotation framework with R and Python packages, a hosted web UI, benchmark pages, and detailed docs for marker-driven and LLM-assisted interpretation workflows. |
+| [lobster](https://github.com/the-omics-os/lobster) | ![](https://img.shields.io/github/stars/the-omics-os/lobster?style=flat-square) | ⭐⭐ B- | Self-evolving agentic bioinformatics framework with installable package, benchmark harness, autonomous debugging loop, and reproducible genomics-oriented analysis workflows. |
 | [scAgent](https://github.com/AI4S-YB/scAgent) | ![](https://img.shields.io/github/stars/AI4S-YB/scAgent?style=flat-square) | ⭐ C+ | Agentic single-cell analysis platform with a Go control plane, Python runtime, web UI, 32 executable skills, workspace persistence, and optional WeChat bridge. |
 
 ---
