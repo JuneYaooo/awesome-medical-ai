@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--02-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--03-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -53,6 +53,8 @@
 | [MedChatZH](https://github.com/tyang816/MedChatZH) | ![](https://img.shields.io/github/stars/tyang816/MedChatZH?style=flat-square) | Open-source | Baichuan-7B-based Chinese medical dialogue model spanning Western + TCM consultation, with released datasets, checkpoints, and web/demo scripts. |
 | [Doctor Dignity](https://github.com/llSourcell/Doctor-Dignity) | ![](https://img.shields.io/github/stars/llSourcell/Doctor-Dignity?style=flat-square) | Open-source | Offline medical dialogue LLM packaged for local web, iOS, and Android use, with training, quantization, and deployment code. |
 | [Asclepius](https://github.com/starmpcc/Asclepius) | ![](https://img.shields.io/github/stars/starmpcc/Asclepius?style=flat-square) | Research | Shareable clinical LLM family trained on synthetic clinical notes, with released ACL paper, checkpoints, and note-generation data. |
+| [AlpaCare](https://github.com/XZhang97666/AlpaCare) | ![](https://img.shields.io/github/stars/XZhang97666/AlpaCare?style=flat-square) | Open-source | Medical instruction-tuned LLM family with a released 52K MedInstruct dataset, clinician-crafted evaluation set, fine-tuning/evaluation code, and downloadable 7B/13B weights on LLaMA/LLaMA-2. |
+| [CAMEL](https://github.com/starmpcc/CAMEL) | ![](https://img.shields.io/github/stars/starmpcc/CAMEL?style=flat-square) | Research | Clinical LLaMA adaptation trained on MIMIC notes, with released preprocessing, instruction-generation, fine-tuning, and evaluation code for reproducing institution-specific clinical LLMs. |
 | [Visual Med-Alpaca](https://github.com/cambridgeltl/visual-med-alpaca) | ![](https://img.shields.io/github/stars/cambridgeltl/visual-med-alpaca?style=flat-square) | Cambridge | Parameter-efficient biomedical multimodal foundation model that combines medical visual understanding with LLM reasoning. |
 | [BiomedGPT](https://github.com/taokz/BiomedGPT) | ![](https://img.shields.io/github/stars/taokz/BiomedGPT?style=flat-square) | Research | Generalist biomedical vision-language foundation model with a Nature Medicine 2024 paper, multi-task datasets, released training code, and checkpoints up to 930M parameters. |
 | [RxLM-Med-Agent](https://github.com/tokisaka23/RxLM-Med-Agent) | ![](https://img.shields.io/github/stars/tokisaka23/RxLM-Med-Agent?style=flat-square) | Open-source | Multimodal clinical diagnostic agent for lab-report interpretation with Qwen-VL fine-tuning, hierarchical RAG, deterministic medical calculations, and System 2 self-correction with traffic-light safety alignment. |
@@ -91,6 +93,7 @@
 | [TorchIO](https://github.com/TorchIO-project/torchio) | ![](https://img.shields.io/github/stars/TorchIO-project/torchio?style=flat-square) | ⭐⭐⭐ A- | Mature PyTorch toolkit for medical image preprocessing, augmentation, patch sampling, and reconstruction, with extensive docs, tutorials, and tests. |
 | [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | ![](https://img.shields.io/github/stars/TissueImageAnalytics/tiatoolbox?style=flat-square) | ⭐⭐⭐ A- | Production-grade computational pathology toolbox with whole-slide IO, patch extraction, stain normalization, pretrained models, benchmarks, and docs. |
 | [PathML](https://github.com/Dana-Farber-AIOS/pathml) | ![](https://img.shields.io/github/stars/Dana-Farber-AIOS/pathml?style=flat-square) | ⭐⭐ B+ | Digital pathology toolkit with Docker images, notebooks, docs, and AI-assisted workflow examples for large whole-slide image analysis. |
+| [pixels](https://github.com/databricks-industry-solutions/pixels) | ![](https://img.shields.io/github/stars/databricks-industry-solutions/pixels?style=flat-square) | ⭐⭐ B+ | Databricks healthcare-imaging accelerator for DICOM ingestion, metadata analytics, OHIF viewing, PHI-aware de-identification, MONAI segmentation, and model-training workflows inside a governed lakehouse stack. |
 | [MoPaDi](https://github.com/KatherLab/mopadi) | ![](https://img.shields.io/github/stars/KatherLab/mopadi?style=flat-square) | ⭐⭐ B | Counterfactual diffusion framework for computational pathology explainability, with training scripts, notebooks, Hugging Face model releases, and pathology workflows spanning TCGA and colorectal/breast/pancancer cohorts. |
 | [Kaapana](https://github.com/kaapana/kaapana) | ![](https://img.shields.io/github/stars/kaapana/kaapana?style=flat-square) | ⭐⭐ B+ | Kubernetes-native platform for medical imaging and data-analysis workflows with PACS/DICOM integration, federated learning support, extension-based deployment, and strong operational docs. |
 | [PathAsst](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) | ![](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology?style=flat-square) | ⭐⭐ B- | Pathology multimodal assistant with 207K image-text pairs, a PathCLIP encoder, eight pathology sub-models, and released code for data construction, training, and demo workflows. |
@@ -220,6 +223,8 @@
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | CCKS2019 Chinese clinical NER: diseases, anatomy, imaging, lab tests, surgery, drugs (6 entity types). |
+| [Clinfo.AI](https://github.com/som-shahlab/Clinfo.AI) | ![](https://img.shields.io/github/stars/som-shahlab/Clinfo.AI?style=flat-square) | Open-source retrieval-augmented medical QA system that turns clinical questions into literature searches, filters relevant articles, summarizes evidence, and synthesizes citation-grounded answers. |
+| [Med-HALT](https://github.com/medhalt/medhalt) | ![](https://img.shields.io/github/stars/medhalt/medhalt?style=flat-square) | Medical LLM hallucination benchmark with reasoning- and memory-based tests, released datasets, reproducible inference/evaluation scripts, and Hugging Face dataset links. |
 
 ---
 
@@ -247,6 +252,7 @@
 |----------|-------|-------------|
 | [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | Curated paper list: LLMs in medicine. |
 | [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) | ![](https://img.shields.io/github/stars/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM?style=flat-square) | Curated bilingual index of medical and healthcare LLM datasets, models, and papers, with direct links to Chinese and English resources. |
+| [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | ![](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square) | Curated survey-style index of agentic AI in healthcare spanning papers, projects, benchmarks, datasets, and application areas such as imaging, EHRs, drug discovery, counseling, and care operations. |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP Chinese resource collection (includes some medical MCP servers). |
 | [ai-guide (鱼皮)](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI resource collection + tutorials. Includes OpenClaw/Claude Code guides. |
 
