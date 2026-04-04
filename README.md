@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--03-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -128,6 +128,7 @@
 |---------|-------|-------|-------------|
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | ⭐⭐ B | Multi-agent diagnostics and healthcare research chatbot. |
 | [MedSci Agent](https://github.com/omar-A-hassan/medsci-agent) | ![](https://img.shields.io/github/stars/omar-A-hassan/medsci-agent?style=flat-square) | ⭐⭐ B | Open-source biomedical research agent with 28 MCP tools for literature search, omics workflows, drug ADMET prediction, protein structure search, document acquisition, and medical image interpretation. Local MedGemma/TxGemma support via Ollama. |
+| [clin-evidence](https://github.com/Hilary-Henshaw/clin-evidence) | ![](https://img.shields.io/github/stars/Hilary-Henshaw/clin-evidence?style=flat-square) | ⭐⭐ B | LangGraph-based ICU evidence assistant combining local guideline RAG, live PubMed/web search, gated medical-image analysis, dual safety filters, FastAPI, Qdrant, and Docker deployment. |
 | [Clinical Trial Matcher](https://github.com/anumsagheer01/clinical-trial-matcher) | ![](https://img.shields.io/github/stars/anumsagheer01/clinical-trial-matcher?style=flat-square) | ⭐⭐ B- | Clinical-trial matching platform with 3 MCP servers, hybrid retrieval across 92K+ trials, openFDA drug-safety checks, a Streamlit demo, and Docker/Kubernetes deployment assets. |
 | [MedAgents](https://github.com/gersteinlab/MedAgents) | ![](https://img.shields.io/github/stars/gersteinlab/MedAgents?style=flat-square) | ⭐⭐ B | ACL 2024 multi-disciplinary collaboration framework where specialized LLM agents jointly reason over medical questions in staged debate. |
 | [MMedAgent](https://github.com/Wangyixinxin/MMedAgent) | ![](https://img.shields.io/github/stars/Wangyixinxin/MMedAgent?style=flat-square) | ⭐ C | Learning to Use Medical Tools with Multi-modal Agent |
@@ -195,6 +196,7 @@
 ## Clinical Software & EHR
 | [HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) | ![](https://img.shields.io/github/stars/LifeValue/HealthWallet.me?style=flat-square) | ⭐⭐ B | Offline-first mobile health record manager with on-device AI, local document parsing, and FHIR R4 connectivity to 52K+ US healthcare providers. |
 | [Open Wearables](https://github.com/the-momentum/open-wearables) | ![](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square) | ⭐⭐ B | Self-hosted wearable-data platform with a unified API, developer portal, and AI-ready natural-language automations across Apple Health, Garmin, Oura, WHOOP, Fitbit, and more. |
+| [medical-ai-hospital](https://github.com/ruslanmv/medical-ai-hospital) | ![](https://img.shields.io/github/stars/ruslanmv/medical-ai-hospital?style=flat-square) | ⭐⭐ B- | Full-stack medical portal with Next.js frontend, FastAPI gateway, Postgres schema, MCP-backed AI intake chat, auth, profile management, Docker Compose, and deployment docs. |
 | [KinCare](https://github.com/NanshineLoong/KinCare) | ![](https://img.shields.io/github/stars/NanshineLoong/KinCare?style=flat-square) | ⭐ C+ | Self-hosted family health space with AI chat/voice assistance, unified household health profiles, daily insights, role-based permissions, and Docker-based deployment. |
 | [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | ![](https://img.shields.io/github/stars/erickyegon/clinical-doc-intelligence?style=flat-square) | ⭐ C | AI-powered FDA drug label intelligence platform — production RAG with 5-stage retrieval, multi-agent orchestration, clinical guardrails, and 54 automated tests |
 | [fhir4java-agents](https://github.com/sg-victorchai/fhir4java-agents) | ![](https://img.shields.io/github/stars/sg-victorchai/fhir4java-agents?style=flat-square) | ⭐ C | A lightweight Java FHIR API server for configuration-driven HL7 FHIR based services with AI capabilities, support both native and MCP plugins for extensible healthcare APIs and workflows |
