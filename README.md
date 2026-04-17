@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--07-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--17-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -206,7 +206,9 @@
 | [HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) | ![](https://img.shields.io/github/stars/LifeValue/HealthWallet.me?style=flat-square) | ⭐⭐ B | Offline-first mobile health record manager with on-device AI, local document parsing, and FHIR R4 connectivity to 52K+ US healthcare providers. |
 | [Open Wearables](https://github.com/the-momentum/open-wearables) | ![](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square) | ⭐⭐ B | Self-hosted wearable-data platform with a unified API, developer portal, and AI-ready natural-language automations across Apple Health, Garmin, Oura, WHOOP, Fitbit, and more. |
 | [medical-ai-hospital](https://github.com/ruslanmv/medical-ai-hospital) | ![](https://img.shields.io/github/stars/ruslanmv/medical-ai-hospital?style=flat-square) | ⭐⭐ B- | Full-stack medical portal with Next.js frontend, FastAPI gateway, Postgres schema, MCP-backed AI intake chat, auth, profile management, Docker Compose, and deployment docs. |
+| [Starling](https://github.com/OpenPathologyFoundation/starling) | ![](https://img.shields.io/github/stars/OpenPathologyFoundation/starling?style=flat-square) | ⭐ C+ | Open pathology platform bridging LIS workflows and AI decision support with Java services, web client, auth/QMS modules, and HL7/FHIR interoperability documentation. |
 | [Oncoteam](https://github.com/peter-fusek/oncoteam) | ![](https://img.shields.io/github/stars/peter-fusek/oncoteam?style=flat-square) | ⭐⭐ B- | Patient-advocacy platform for cancer care with 620+ passing tests, phone-first workflows for labs/documents/trial search, MCP access, and literature-backed appointment-prep plus second-opinion support. |
+| [MedBill Scanner](https://github.com/akshaykanni22/medbill-scanner) | ![](https://img.shields.io/github/stars/akshaykanni22/medbill-scanner?style=flat-square) | ⭐ C+ | Local-first medical-bill anomaly detector with OCR, PII redaction, CMS price checks, dispute-letter generation, FastAPI + React stack, Docker Compose, and installable skills/MCP hooks. |
 | [KinCare](https://github.com/NanshineLoong/KinCare) | ![](https://img.shields.io/github/stars/NanshineLoong/KinCare?style=flat-square) | ⭐ C+ | Self-hosted family health space with AI chat/voice assistance, unified household health profiles, daily insights, role-based permissions, and Docker-based deployment. |
 | [voice-symptom-documentation-assistant](https://github.com/JoelJohnsonThomas/voice-symptom-documentation-assistant) | ![](https://img.shields.io/github/stars/JoelJohnsonThomas/voice-symptom-documentation-assistant?style=flat-square) | ⭐ C+ | Voice intake and clinical documentation platform using MedASR/MedGemma, SOAP note generation, FHIR R4 bundle export, PHI controls, React frontend, and FastAPI backend. |
 | [clinical-doc-intelligence](https://github.com/erickyegon/clinical-doc-intelligence) | ![](https://img.shields.io/github/stars/erickyegon/clinical-doc-intelligence?style=flat-square) | ⭐ C | AI-powered FDA drug label intelligence platform — production RAG with 5-stage retrieval, multi-agent orchestration, clinical guardrails, and 54 automated tests |
@@ -239,6 +241,9 @@
 | [Clinfo.AI](https://github.com/som-shahlab/Clinfo.AI) | ![](https://img.shields.io/github/stars/som-shahlab/Clinfo.AI?style=flat-square) | Open-source retrieval-augmented medical QA system that turns clinical questions into literature searches, filters relevant articles, summarizes evidence, and synthesizes citation-grounded answers. |
 | [Med-HALT](https://github.com/medhalt/medhalt) | ![](https://img.shields.io/github/stars/medhalt/medhalt?style=flat-square) | Medical LLM hallucination benchmark with reasoning- and memory-based tests, released datasets, reproducible inference/evaluation scripts, and Hugging Face dataset links. |
 | [LLMEval-Med](https://github.com/llmeval/LLMEval-Med) | ![](https://img.shields.io/github/stars/llmeval/LLMEval-Med?style=flat-square) | Physician-validated clinical benchmark for medical LLMs, with 2,996 real-world questions from EHR-derived scenarios, released datasets, evaluation scripts, and bilingual docs. |
+| [CoEval](https://github.com/lunit-io/CoEval) | ![](https://img.shields.io/github/stars/lunit-io/CoEval?style=flat-square) | Medical LLM evaluation framework from Lunit with Hydra-based configs, reproducible benchmarking pipelines, `src/` + `tests/`, and Chain-of-Evidence dataset/metric integrations. |
+| [ScribeGOAT2](https://github.com/GOATnote-Inc/scribegoat2) | ![](https://img.shields.io/github/stars/GOATnote-Inc/scribegoat2?style=flat-square) | Multi-turn medical safety evaluation pipeline with physician-authored scenarios, adversarial persistence testing, versioned claims, security tooling, and a large Python test harness. |
+| [Rveda](https://github.com/anirudw/rveda) | ![](https://img.shields.io/github/stars/anirudw/rveda?style=flat-square) | OpenEnv-compatible benchmark for agentic medical coding. Uses local ICD-10 knowledge, traceable submission flows, Docker packaging, and evaluation loops for hallucination-resistant coding workflows. |
 
 ---
 
