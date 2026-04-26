@@ -286,6 +286,8 @@
 | [PharmaCore](https://github.com/reacherwu/PharmaCore) | ![](https://img.shields.io/github/stars/reacherwu/PharmaCore?style=flat-square) | ⭐ C+ | Local-first AI drug-discovery toolkit for Apple Silicon — de novo generation and drug repurposing on-device with benchmarks, examples, tests, and sparse open models. |
 | [rare-archive](https://github.com/Wilhelm-Foundation/rare-archive) | ![](https://img.shields.io/github/stars/Wilhelm-Foundation/rare-archive?style=flat-square) | ⭐ C+ | Rare-disease AI ecosystem with open workflows, tool-backed clinical context, deployable packages, CI, and community model/data releases for diagnostic decision support. |
 | [scAgent](https://github.com/AI4S-YB/scAgent) | ![](https://img.shields.io/github/stars/AI4S-YB/scAgent?style=flat-square) | ⭐ C+ | Agentic single-cell analysis platform with a Go control plane, Python runtime, web UI, 32 executable skills, workspace persistence, and optional WeChat bridge. |
+| [Mimosa-AI](https://github.com/HolobiomicsLab/Mimosa-AI) | ![](https://img.shields.io/github/stars/HolobiomicsLab/Mimosa-AI?style=flat-square) | ⭐ C+ | Autonomous-science framework for biomedical research with MCP tool discovery, Darwinian workflow optimization, multilingual docs, and an end-to-end paper-reproduction demo from raw mass-spec data. |
+| [FlowAgent](https://github.com/EnteloBio/flowagent) | ![](https://img.shields.io/github/stars/EnteloBio/flowagent?style=flat-square) | ⭐ C+ | Multi-agent bioinformatics workflow runner that plans RNA-seq/ATAC-seq/ChIP-seq analyses from natural language, executes locally or on HPC, emits Nextflow/Snakemake pipelines, and generates QC reports. |
 
 ---
 
