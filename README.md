@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--19-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--30-blue.svg)](#)
 
 > 🔧 **Looking for AI Agent Skills & MCP servers?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — Skills you can install directly into Claude Code, Cursor, OpenClaw, etc.
 
@@ -217,6 +217,7 @@
 | [HealthWallet.me](https://github.com/LifeValue/HealthWallet.me) | ![](https://img.shields.io/github/stars/LifeValue/HealthWallet.me?style=flat-square) | ⭐⭐ B | Offline-first mobile health record manager with on-device AI, local document parsing, and FHIR R4 connectivity to 52K+ US healthcare providers. |
 | [MyWellWallet](https://github.com/maheshbalan/myWellWallet) | ![](https://img.shields.io/github/stars/maheshbalan/myWellWallet?style=flat-square) | ⭐ C+ | Flutter personal-health app combining on-device MedGemma, FHIR-over-MCP ingestion, Apple Health sync, local SQLite storage, and privacy-first health Q&A/RAG workflows. |
 | [Open Wearables](https://github.com/the-momentum/open-wearables) | ![](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square) | ⭐⭐ B | Self-hosted wearable-data platform with a unified API, developer portal, and AI-ready natural-language automations across Apple Health, Garmin, Oura, WHOOP, Fitbit, and more. |
+| [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer) | ![](https://img.shields.io/github/stars/VerisimilitudeX/DNAnalyzer?style=flat-square) | ⭐⭐ B- | On-device personal-genomics workbench for FASTA/FASTQ and consumer-DNA exports, with AI-assisted variant interpretation, ancestry/risk analysis, local reporting, desktop packaging, Docker setup, and strong docs. |
 | [HiMe](https://github.com/thinkwee/HiMe) | ![](https://img.shields.io/github/stars/thinkwee/HiMe?style=flat-square) | ⭐ C+ | Local-first personal-health AI agent with Apple Watch/iPhone ingestion, iOS/watchOS companions, Telegram/Feishu chat, reusable skills, Dockerized deployment, and tests. |
 | [Acara Plate](https://github.com/acara-app/plate) | ![](https://img.shields.io/github/stars/acara-app/plate?style=flat-square) | ⭐⭐ B- | Self-hosted health AI agent platform for health Q&A, Apple Health sync, nutrition and diabetes support, meal planning, Telegram chat, and daily-signal tracking. Laravel + React stack with tests and security docs. |
 | [medical-ai-hospital](https://github.com/ruslanmv/medical-ai-hospital) | ![](https://img.shields.io/github/stars/ruslanmv/medical-ai-hospital?style=flat-square) | ⭐⭐ B- | Full-stack medical portal with Next.js frontend, FastAPI gateway, Postgres schema, MCP-backed AI intake chat, auth, profile management, Docker Compose, and deployment docs. |
@@ -255,6 +256,7 @@
 |---------|-------|-------------|
 | [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | CCKS2019 Chinese clinical NER: diseases, anatomy, imaging, lab tests, surgery, drugs (6 entity types). |
 | [Clinfo.AI](https://github.com/som-shahlab/Clinfo.AI) | ![](https://img.shields.io/github/stars/som-shahlab/Clinfo.AI?style=flat-square) | Open-source retrieval-augmented medical QA system that turns clinical questions into literature searches, filters relevant articles, summarizes evidence, and synthesizes citation-grounded answers. |
+| [medical-deep-research](https://github.com/junhewk/medical-deep-research) | ![](https://img.shields.io/github/stars/junhewk/medical-deep-research?style=flat-square) | Desktop literature-research assistant that searches PubMed, Cochrane, OpenAlex, Semantic Scholar, and Scopus, ranks evidence, retrieves OA full text, and generates citation-linked medical reports. Includes releases and tests. |
 | [Med-HALT](https://github.com/medhalt/medhalt) | ![](https://img.shields.io/github/stars/medhalt/medhalt?style=flat-square) | Medical LLM hallucination benchmark with reasoning- and memory-based tests, released datasets, reproducible inference/evaluation scripts, and Hugging Face dataset links. |
 | [LLMEval-Med](https://github.com/llmeval/LLMEval-Med) | ![](https://img.shields.io/github/stars/llmeval/LLMEval-Med?style=flat-square) | Physician-validated clinical benchmark for medical LLMs, with 2,996 real-world questions from EHR-derived scenarios, released datasets, evaluation scripts, and bilingual docs. |
 | [CoEval](https://github.com/lunit-io/CoEval) | ![](https://img.shields.io/github/stars/lunit-io/CoEval?style=flat-square) | Medical LLM evaluation framework from Lunit with Hydra-based configs, reproducible benchmarking pipelines, `src/` + `tests/`, and Chain-of-Evidence dataset/metric integrations. |
