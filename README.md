@@ -133,6 +133,7 @@
 | [medical-imaging-ai-pneumonia-detector](https://github.com/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector) | ![](https://img.shields.io/github/stars/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector?style=flat-square) | ⭐ C | Deep learning system for pneumonia detection from chest X‑rays with explainable AI heatmaps (Grad‑CAM). Built with TensorFlow and Streamlit. Achieves ~90% accuracy. |
 | [med-gemma-critical-imaging-copilot](https://github.com/DRZ-hang/med-gemma-critical-imaging-copilot) | ![](https://img.shields.io/github/stars/DRZ-hang/med-gemma-critical-imaging-copilot?style=flat-square) | ⭐ C+ | Physician-gated critical imaging workflow that turns MedGemma findings into emergency, outpatient, and radiology coordination actions. 8 agents, local mock mode, web dashboard, and tests. |
 
+
 ---
 
 ## Multi-Agent Medical Systems
@@ -247,6 +248,7 @@
 
 ---
 
+
 | [met-bot](https://github.com/onesky2015/met-bot) | ![](https://img.shields.io/github/stars/onesky2015/met-bot?style=flat-square) | ⭐ C | A multi-model AI bot tracking pediatric SLE research updates. 关注儿童红斑狼疮医疗情报的 AI 机器人 |
 ## NLP & Text Mining
 
@@ -294,6 +296,9 @@
 | [Mimosa-AI](https://github.com/HolobiomicsLab/Mimosa-AI) | ![](https://img.shields.io/github/stars/HolobiomicsLab/Mimosa-AI?style=flat-square) | ⭐ C+ | Autonomous-science framework for biomedical research with MCP tool discovery, Darwinian workflow optimization, multilingual docs, and an end-to-end paper-reproduction demo from raw mass-spec data. |
 | [FlowAgent](https://github.com/EnteloBio/flowagent) | ![](https://img.shields.io/github/stars/EnteloBio/flowagent?style=flat-square) | ⭐ C+ | Multi-agent bioinformatics workflow runner that plans RNA-seq/ATAC-seq/ChIP-seq analyses from natural language, executes locally or on HPC, emits Nextflow/Snakemake pipelines, and generates QC reports. |
 
+
+
+
 ---
 
 ## Research & Paper Collections
@@ -301,6 +306,7 @@
 | Resource | Stars | Description |
 |----------|-------|-------------|
 | [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | Curated paper list: LLMs in medicine. |
+
 | [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) | ![](https://img.shields.io/github/stars/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM?style=flat-square) | Curated bilingual index of medical and healthcare LLM datasets, models, and papers, with direct links to Chinese and English resources. |
 | [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | ![](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square) | Curated survey-style index of agentic AI in healthcare spanning papers, projects, benchmarks, datasets, and application areas such as imaging, EHRs, drug discovery, counseling, and care operations. |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP Chinese resource collection (includes some medical MCP servers). |
