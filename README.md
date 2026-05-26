@@ -248,6 +248,7 @@
 ---
 
 | [met-bot](https://github.com/onesky2015/met-bot) | ![](https://img.shields.io/github/stars/onesky2015/met-bot?style=flat-square) | ⭐ C | A multi-model AI bot tracking pediatric SLE research updates. 关注儿童红斑狼疮医疗情报的 AI 机器人 |
+| [matchminer-ai-inference](https://github.com/dfci/matchminer-ai-inference) | ![](https://img.shields.io/github/stars/dfci/matchminer-ai-inference?style=flat-square) | ⭐ C | Python package for the MatchMiner-AI cancer clinical trial matching inference workflow. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -292,6 +293,8 @@
 | [rare-archive](https://github.com/Wilhelm-Foundation/rare-archive) | ![](https://img.shields.io/github/stars/Wilhelm-Foundation/rare-archive?style=flat-square) | ⭐ C+ | Rare-disease AI ecosystem with open workflows, tool-backed clinical context, deployable packages, CI, and community model/data releases for diagnostic decision support. |
 | [scAgent](https://github.com/AI4S-YB/scAgent) | ![](https://img.shields.io/github/stars/AI4S-YB/scAgent?style=flat-square) | ⭐ C+ | Agentic single-cell analysis platform with a Go control plane, Python runtime, web UI, 32 executable skills, workspace persistence, and optional WeChat bridge. |
 | [Mimosa-AI](https://github.com/HolobiomicsLab/Mimosa-AI) | ![](https://img.shields.io/github/stars/HolobiomicsLab/Mimosa-AI?style=flat-square) | ⭐ C+ | Autonomous-science framework for biomedical research with MCP tool discovery, Darwinian workflow optimization, multilingual docs, and an end-to-end paper-reproduction demo from raw mass-spec data. |
+| [omicverse](https://github.com/omicverse/omicverse) | ![](https://img.shields.io/github/stars/omicverse/omicverse?style=flat-square) | ⭐ C | A python library for multi omics included bulk, single cell and spatial RNA-seq analysis. |
+| [SnapATAC2](https://github.com/scverse/SnapATAC2) | ![](https://img.shields.io/github/stars/scverse/SnapATAC2?style=flat-square) | ⭐ C | Single-cell epigenomics analysis tools |
 | [FlowAgent](https://github.com/EnteloBio/flowagent) | ![](https://img.shields.io/github/stars/EnteloBio/flowagent?style=flat-square) | ⭐ C+ | Multi-agent bioinformatics workflow runner that plans RNA-seq/ATAC-seq/ChIP-seq analyses from natural language, executes locally or on HPC, emits Nextflow/Snakemake pipelines, and generates QC reports. |
 
 ---
@@ -305,6 +308,7 @@
 | [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) | ![](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square) | Curated survey-style index of agentic AI in healthcare spanning papers, projects, benchmarks, datasets, and application areas such as imaging, EHRs, drug discovery, counseling, and care operations. |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP Chinese resource collection (includes some medical MCP servers). |
 | [ai-guide (鱼皮)](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI resource collection + tutorials. Includes OpenClaw/Claude Code guides. |
+| [Awesome-AI4DigitalPathology](https://github.com/lingxitong/Awesome-AI4DigitalPathology) | ![](https://img.shields.io/github/stars/lingxitong/Awesome-AI4DigitalPathology?style=flat-square) | ⭐ C | A Curated List of Awesome Works in Computational Pathology, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in Digital Pathology. |
 
 ---
 
