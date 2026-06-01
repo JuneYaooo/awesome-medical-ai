@@ -190,6 +190,7 @@
 | [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C 🔴 | CrewAI for medical report summarization. *(Stale)* |
 | [MediCARE](https://github.com/giuseppericcio/MediCARE) | — | ⭐ C 🔴 | Collaborative agents over heterogeneous medical graphs. *(Stale)* |
 | [HERA](https://github.com/Nerdboss-stm/hera-healthcare-ai) | ![](https://img.shields.io/github/stars/Nerdboss-stm/hera-healthcare-ai?style=flat-square) | ⭐⭐ B- | Production-style healthcare AI platform combining triage/diagnostic/treatment agents, biomedical NER, RAG, FHIR R4, observability, and a 9-stage patient pipeline. Dockerized with 104 tests and a live demo. |
+| [SepsisAgent](https://github.com/FreedomIntelligence/SepsisAgent) | ![](https://img.shields.io/github/stars/FreedomIntelligence/SepsisAgent?style=flat-square) | ⭐ C+ | Agentifying patient dynamics within LLMs through interaction with clinical workflows — from the HuatuoGPT team. |
 
 ---
 
