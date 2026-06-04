@@ -73,6 +73,7 @@
 | [MedicalRAGChatbot](https://github.com/FCHEHIDI/MedicalRAGChatbot) | ![](https://img.shields.io/github/stars/FCHEHIDI/MedicalRAGChatbot?style=flat-square) | ⭐ C | Production-ready Medical RAG Chatbot showcasing AI/ML engineering skills with local LLM integration and vector databases |
 | [LLM-Nursing-Training](https://github.com/mrpanzerr/LLM-Nursing-Training) | ![](https://img.shields.io/github/stars/mrpanzerr/LLM-Nursing-Training?style=flat-square) | ⭐ C | LLM Video Avatar for training nursing students through AI-driven simulations. Progresses from text-to-text to video-to-video interactions. Adaptive scenarios powered by GPT-4o enhance clinical skil... |
 | [consultation_registration_cos](https://github.com/Fankekeke/consultation_registration_cos) | ![](https://img.shields.io/github/stars/Fankekeke/consultation_registration_cos?style=flat-square) | ⭐ C | 智慧医疗助手：基于 LLM（大语言模型）的 AI 预诊与在线挂号平台。集成 RAG（检索增强生成）医疗知识库，支持多科室智能分诊与挂号流转。大模型辅助问诊 + 自动化挂号分拨，实时预约排班挂号管理（SpringBoot + Vue 全栈） |
+| [Med-PaLM](https://github.com/kyegomez/Med-PaLM) | ![](https://img.shields.io/github/stars/kyegomez/Med-PaLM?style=flat-square) | Kyegomez | Towards Generalist Biomedical AI |
 
 ---
 
@@ -132,6 +133,7 @@
 | [medical-ai-assistant](https://github.com/upmikodev/medical-ai-assistant) | ![](https://img.shields.io/github/stars/upmikodev/medical-ai-assistant?style=flat-square) | ⭐ C | A multi-agent AI platform for medical imaging diagnostics—integrating tumor classification, segmentation, RAG-powered patient data retrieval, and automated report generation via a FastAPI backend a... |
 | [medical-imaging-ai-pneumonia-detector](https://github.com/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector) | ![](https://img.shields.io/github/stars/LuthandoCandlovu/medical-imaging-ai-pneumonia-detector?style=flat-square) | ⭐ C | Deep learning system for pneumonia detection from chest X‑rays with explainable AI heatmaps (Grad‑CAM). Built with TensorFlow and Streamlit. Achieves ~90% accuracy. |
 | [med-gemma-critical-imaging-copilot](https://github.com/DRZ-hang/med-gemma-critical-imaging-copilot) | ![](https://img.shields.io/github/stars/DRZ-hang/med-gemma-critical-imaging-copilot?style=flat-square) | ⭐ C+ | Physician-gated critical imaging workflow that turns MedGemma findings into emergency, outpatient, and radiology coordination actions. 8 agents, local mock mode, web dashboard, and tests. |
+| [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | ![](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA?style=flat-square) | ⭐ C+ | Large-scale medical visual question-answering dataset with 227k VQA pairs of 149k images spanning multiple modalities, diseases, and organs. |
 
 ---
 
@@ -298,6 +300,9 @@
 | [omicverse](https://github.com/omicverse/omicverse) | ![](https://img.shields.io/github/stars/omicverse/omicverse?style=flat-square) | ⭐ C | A python library for multi omics included bulk, single cell and spatial RNA-seq analysis. |
 | [SnapATAC2](https://github.com/scverse/SnapATAC2) | ![](https://img.shields.io/github/stars/scverse/SnapATAC2?style=flat-square) | ⭐ C | Single-cell epigenomics analysis tools |
 | [FlowAgent](https://github.com/EnteloBio/flowagent) | ![](https://img.shields.io/github/stars/EnteloBio/flowagent?style=flat-square) | ⭐ C+ | Multi-agent bioinformatics workflow runner that plans RNA-seq/ATAC-seq/ChIP-seq analyses from natural language, executes locally or on HPC, emits Nextflow/Snakemake pipelines, and generates QC reports. |
+| [molchanica](https://github.com/David-OConnor/molchanica) | ![](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square) | ⭐ C+ | Protein and molecule viewer, editor, and simulator built in Rust with GPU-accelerated rendering. |
+| [aioli](https://github.com/biowasm/aioli) | ![](https://img.shields.io/github/stars/biowasm/aioli?style=flat-square) | ⭐ C+ | Framework for building fast genomics web tools with WebAssembly and WebWorkers, enabling browser-based bioinformatics at near-native speed. |
+| [geneview](https://github.com/ShujiaHuang/geneview) | ![](https://img.shields.io/github/stars/ShujiaHuang/geneview?style=flat-square) | ⭐ C | Genomics data visualization library in Python using matplotlib, with publication-ready figure generation for GWAS, LD, and comparative genomics. |
 
 ---
 
