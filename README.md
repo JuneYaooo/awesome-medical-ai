@@ -252,6 +252,9 @@
 
 | [met-bot](https://github.com/onesky2015/met-bot) | ![](https://img.shields.io/github/stars/onesky2015/met-bot?style=flat-square) | ⭐ C | A multi-model AI bot tracking pediatric SLE research updates. 关注儿童红斑狼疮医疗情报的 AI 机器人 |
 | [matchminer-ai-inference](https://github.com/dfci/matchminer-ai-inference) | ![](https://img.shields.io/github/stars/dfci/matchminer-ai-inference?style=flat-square) | ⭐ C | Python package for the MatchMiner-AI cancer clinical trial matching inference workflow. |
+| [lotti](https://github.com/matthiasn/lotti) | ![](https://img.shields.io/github/stars/matthiasn/lotti?style=flat-square) | ⭐ B | Open-source private logbook with a local agentic layer. Long-living AI agents record, analyze, and surface patterns across health journals, habits, and daily activities with on-device privacy. |
+| [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) | ![](https://img.shields.io/github/stars/cqframework/clinical_quality_language?style=flat-square) | ⭐ B+ | HL7 Clinical Quality Language (CQL) — standardized expression language for clinical quality measures and clinical decision support rules, with Java/Kotlin tooling, spec, and reference implementation. |
+| [cognitive-companion](https://github.com/SilverMind-Project/cognitive-companion) | ![](https://img.shields.io/github/stars/SilverMind-Project/cognitive-companion?style=flat-square) | ⭐ C | Privacy-first, on-premise AI system for senior care in multigenerational households. Local LLM-based monitoring, conversation companionship, and health check-ins without cloud dependencies. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
