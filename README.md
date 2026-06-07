@@ -308,6 +308,7 @@
 | [molchanica](https://github.com/David-OConnor/molchanica) | ![](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square) | ⭐ C+ | Protein and molecule viewer, editor, and simulator built in Rust with GPU-accelerated rendering. |
 | [aioli](https://github.com/biowasm/aioli) | ![](https://img.shields.io/github/stars/biowasm/aioli?style=flat-square) | ⭐ C+ | Framework for building fast genomics web tools with WebAssembly and WebWorkers, enabling browser-based bioinformatics at near-native speed. |
 | [geneview](https://github.com/ShujiaHuang/geneview) | ![](https://img.shields.io/github/stars/ShujiaHuang/geneview?style=flat-square) | ⭐ C | Genomics data visualization library in Python using matplotlib, with publication-ready figure generation for GWAS, LD, and comparative genomics. |
+| [Clinical-Genomics](https://github.com/digo4/Clinical-Genomics) | ![](https://img.shields.io/github/stars/digo4/Clinical-Genomics?style=flat-square) | ⭐ C | Comprehensive variant calling pipeline on human datasets using GATK Best Practices. Covers alignment, BAM processing, variant discovery, and annotation with Docker reproducibility. |
 
 ---
 
