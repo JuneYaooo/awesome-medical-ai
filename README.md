@@ -257,6 +257,7 @@
 | [lotti](https://github.com/matthiasn/lotti) | ![](https://img.shields.io/github/stars/matthiasn/lotti?style=flat-square) | ⭐ B | Open-source private logbook with a local agentic layer. Long-living AI agents record, analyze, and surface patterns across health journals, habits, and daily activities with on-device privacy. |
 | [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) | ![](https://img.shields.io/github/stars/cqframework/clinical_quality_language?style=flat-square) | ⭐ B+ | HL7 Clinical Quality Language (CQL) — standardized expression language for clinical quality measures and clinical decision support rules, with Java/Kotlin tooling, spec, and reference implementation. |
 | [cognitive-companion](https://github.com/SilverMind-Project/cognitive-companion) | ![](https://img.shields.io/github/stars/SilverMind-Project/cognitive-companion?style=flat-square) | ⭐ C | Privacy-first, on-premise AI system for senior care in multigenerational households. Local LLM-based monitoring, conversation companionship, and health check-ins without cloud dependencies. |
+| [ParkinSUM](https://github.com/albertzhzhou-droid/ParkinSUM) | ![](https://img.shields.io/github/stars/albertzhzhou-droid/ParkinSUM?style=flat-square) | ⭐ C+ | Local-first Flutter application for Parkinson's disease diet-medication education. Interactive tracking of medication timing, dietary interactions, and symptom journaling. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -311,6 +312,8 @@
 | [Clinical-Genomics](https://github.com/digo4/Clinical-Genomics) | ![](https://img.shields.io/github/stars/digo4/Clinical-Genomics?style=flat-square) | ⭐ C | Comprehensive variant calling pipeline on human datasets using GATK Best Practices. Covers alignment, BAM processing, variant discovery, and annotation with Docker reproducibility. |
 | [genepio](https://github.com/GenEpiO/genepio) | ![](https://img.shields.io/github/stars/GenEpiO/genepio?style=flat-square) | ⭐ C | Genomic Epidemiology Application Ontology — standardized ontology for describing genomics, laboratory testing, and epidemiological investigation workflows in public health. |
 | [thunor](https://github.com/alubbock/thunor) | ![](https://img.shields.io/github/stars/alubbock/thunor?style=flat-square) | ⭐ C | Python toolkit for dose-response curve fitting and DIP rate analysis of cell proliferation data. Interactive visualization, multi-plate comparison, and publication-ready figure export. |
+| [cljam](https://github.com/chrovis/cljam) | ![](https://img.shields.io/github/stars/chrovis/cljam?style=flat-square) | ⭐ C+ | DNA Sequence Alignment/Map (SAM) library for Clojure — read, write, and manipulate SAM/BAM/CRAM files with full-featured genomics I/O on the JVM. |
+| [dnadesign](https://github.com/Koeng101/dnadesign) | ![](https://img.shields.io/github/stars/Koeng101/dnadesign?style=flat-square) | ⭐ C | Lua package for designing and optimizing DNA sequences. Codon optimization, restriction site analysis, Gibson assembly primer design, and sequence manipulation primitives. |
 
 ---
 
@@ -324,6 +327,7 @@
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP Chinese resource collection (includes some medical MCP servers). |
 | [ai-guide (鱼皮)](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI resource collection + tutorials. Includes OpenClaw/Claude Code guides. |
 | [Awesome-AI4DigitalPathology](https://github.com/lingxitong/Awesome-AI4DigitalPathology) | ![](https://img.shields.io/github/stars/lingxitong/Awesome-AI4DigitalPathology?style=flat-square) | ⭐ C | A Curated List of Awesome Works in Computational Pathology, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in Digital Pathology. |
+| [Awesome-AI4Med](https://github.com/FreedomIntelligence/Awesome-AI4Med) | ![](https://img.shields.io/github/stars/FreedomIntelligence/Awesome-AI4Med?style=flat-square) | Curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. Comprehensive resource for medical AI research and practice. |
 
 ---
 
