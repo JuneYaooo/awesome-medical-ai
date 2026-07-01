@@ -315,6 +315,8 @@
 | [thunor](https://github.com/alubbock/thunor) | ![](https://img.shields.io/github/stars/alubbock/thunor?style=flat-square) | ⭐ C | Python toolkit for dose-response curve fitting and DIP rate analysis of cell proliferation data. Interactive visualization, multi-plate comparison, and publication-ready figure export. |
 | [cljam](https://github.com/chrovis/cljam) | ![](https://img.shields.io/github/stars/chrovis/cljam?style=flat-square) | ⭐ C+ | DNA Sequence Alignment/Map (SAM) library for Clojure — read, write, and manipulate SAM/BAM/CRAM files with full-featured genomics I/O on the JVM. |
 | [dnadesign](https://github.com/Koeng101/dnadesign) | ![](https://img.shields.io/github/stars/Koeng101/dnadesign?style=flat-square) | ⭐ C | Lua package for designing and optimizing DNA sequences. Codon optimization, restriction site analysis, Gibson assembly primer design, and sequence manipulation primitives. |
+| [ClairS-TO](https://github.com/HKU-BAL/ClairS-TO) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS-TO?style=flat-square) | ⭐ C | ClairS-TO - a deep-learning method for tumor-only somatic variant calling |
+| [ClairS](https://github.com/HKU-BAL/ClairS) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS?style=flat-square) | ⭐ C | ClairS - a deep-learning method for long-read somatic small variant calling |
 
 ---
 
