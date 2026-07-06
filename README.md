@@ -317,6 +317,7 @@
 | [dnadesign](https://github.com/Koeng101/dnadesign) | ![](https://img.shields.io/github/stars/Koeng101/dnadesign?style=flat-square) | ⭐ C | Lua package for designing and optimizing DNA sequences. Codon optimization, restriction site analysis, Gibson assembly primer design, and sequence manipulation primitives. |
 | [ClairS-TO](https://github.com/HKU-BAL/ClairS-TO) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS-TO?style=flat-square) | ⭐ C | ClairS-TO - a deep-learning method for tumor-only somatic variant calling |
 | [ClairS](https://github.com/HKU-BAL/ClairS) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS?style=flat-square) | ⭐ C | ClairS - a deep-learning method for long-read somatic small variant calling |
+| [p2rank](https://github.com/rdk/p2rank) | ![](https://img.shields.io/github/stars/rdk/p2rank?style=flat-square) | ⭐ C | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. |
 
 ---
 
