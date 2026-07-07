@@ -318,6 +318,8 @@
 | [ClairS-TO](https://github.com/HKU-BAL/ClairS-TO) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS-TO?style=flat-square) | ⭐ C | ClairS-TO - a deep-learning method for tumor-only somatic variant calling |
 | [ClairS](https://github.com/HKU-BAL/ClairS) | ![](https://img.shields.io/github/stars/HKU-BAL/ClairS?style=flat-square) | ⭐ C | ClairS - a deep-learning method for long-read somatic small variant calling |
 | [p2rank](https://github.com/rdk/p2rank) | ![](https://img.shields.io/github/stars/rdk/p2rank?style=flat-square) | ⭐ C | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. |
+| [icml2026-ai-bio](https://github.com/BioTender-max/icml2026-ai-bio) | ![](https://img.shields.io/github/stars/BioTender-max/icml2026-ai-bio?style=flat-square) | ⭐ C | ICML 2026 · AI × Biomedical Papers — 315 curated papers on protein design, genomics, drug discovery, clinical AI, and more |
+| [biojava](https://github.com/biojava/biojava) | ![](https://img.shields.io/github/stars/biojava/biojava?style=flat-square) | ⭐ C | :book::microscope::coffee: BioJava is an open-source project dedicated to providing a Java library for processing biological data. |
 
 ---
 
