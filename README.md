@@ -321,6 +321,7 @@
 | [icml2026-ai-bio](https://github.com/BioTender-max/icml2026-ai-bio) | ![](https://img.shields.io/github/stars/BioTender-max/icml2026-ai-bio?style=flat-square) | ⭐ C | ICML 2026 · AI × Biomedical Papers — 315 curated papers on protein design, genomics, drug discovery, clinical AI, and more |
 | [biojava](https://github.com/biojava/biojava) | ![](https://img.shields.io/github/stars/biojava/biojava?style=flat-square) | ⭐ C | :book::microscope::coffee: BioJava is an open-source project dedicated to providing a Java library for processing biological data. |
 | [gambit](https://github.com/jlumpe/gambit) | ![](https://img.shields.io/github/stars/jlumpe/gambit?style=flat-square) | ⭐ C | A methodology to rapidly leverage whole genome sequencing of bacterial isolates for clinical identification. |
+| [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | ⭐ C | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 
 ---
 
