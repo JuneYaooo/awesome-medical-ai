@@ -322,6 +322,7 @@
 | [biojava](https://github.com/biojava/biojava) | ![](https://img.shields.io/github/stars/biojava/biojava?style=flat-square) | ⭐ C | :book::microscope::coffee: BioJava is an open-source project dedicated to providing a Java library for processing biological data. |
 | [gambit](https://github.com/jlumpe/gambit) | ![](https://img.shields.io/github/stars/jlumpe/gambit?style=flat-square) | ⭐ C | A methodology to rapidly leverage whole genome sequencing of bacterial isolates for clinical identification. |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | ⭐ C | MCP server for spatial transcriptomics analysis through natural language interfaces. |
+| [biopython](https://github.com/biopython/biopython) | ![](https://img.shields.io/github/stars/biopython/biopython?style=flat-square) | ⭐ C | Official git repository for Biopython (originally converted from CVS) |
 
 ---
 
