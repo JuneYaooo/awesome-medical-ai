@@ -136,6 +136,8 @@
 | [PMC-VQA](https://github.com/xiaoman-zhang/PMC-VQA) | ![](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA?style=flat-square) | ⭐ C+ | Large-scale medical visual question-answering dataset with 227k VQA pairs of 149k images spanning multiple modalities, diseases, and organs. |
 | [ITK](https://github.com/InsightSoftwareConsortium/ITK) | ![](https://img.shields.io/github/stars/InsightSoftwareConsortium/ITK?style=flat-square) | ⭐⭐⭐ A- | Industry-standard C++ toolkit for medical image segmentation, registration, and analysis. Extensive documentation, Python wrapping, and broad modality support (CT, MRI, ultrasound, microscopy). |
 | [dicomviewer](https://github.com/ayselafsar/dicomviewer) | ![](https://img.shields.io/github/stars/ayselafsar/dicomviewer?style=flat-square) | ⭐ C+ | DICOM Viewer integrated into Nextcloud — view, annotate, and share medical images directly from your self-hosted cloud storage with zero external dependencies. |
+| [mne-cpp](https://github.com/mne-tools/mne-cpp) | ![](https://img.shields.io/github/stars/mne-tools/mne-cpp?style=flat-square) | ⭐ C | MNE-CPP: The C++ framework for real-time functional brain imaging. |
+| [Viewers](https://github.com/OHIF/Viewers) | ![](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square) | ⭐ C | OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages |
 
 ---
 
@@ -262,6 +264,8 @@
 | [HealthChain](https://github.com/healthchainai/HealthChain) | ![](https://img.shields.io/github/stars/healthchainai/HealthChain?style=flat-square) | ⭐ C | Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment ✨ 🏥 |
 | [openmed](https://github.com/maziyarpanahi/openmed) | ![](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=flat-square) | ⭐ C | Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your netwo... |
 | [TrialMatchAI](https://github.com/cbib/TrialMatchAI) | ![](https://img.shields.io/github/stars/cbib/TrialMatchAI?style=flat-square) | ⭐ C | TrialMatchAI leverages large language models to streamline clinical trial matching by evaluating patient-specific clinical characteristics against trial eligibility criteria and generating relevant... |
+| [dentalpin](https://github.com/martinezsalmeron/dentalpin) | ![](https://img.shields.io/github/stars/martinezsalmeron/dentalpin?style=flat-square) | ⭐ C | The open source agentic dental software. Built for AI. |
+| [kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) | ![](https://img.shields.io/github/stars/ohs-foundation/kotlin-fhir?style=flat-square) | ⭐ C | Kotlin FHIR is a lean and fast implementation of the HL7® FHIR® data model on Kotlin Multiplatform. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -329,6 +333,7 @@
 | [xgt](https://github.com/Ebedthan/xgt) | ![](https://img.shields.io/github/stars/Ebedthan/xgt?style=flat-square) | ⭐ C | CLI tool for querying the Genome Taxonomy Database (GTDB). Batch search, genome cards, taxon lineages, and cross-release taxonomic comparison. JSON · CSV · TSV · stdin. |
 | [mixs](https://github.com/GenomicsStandardsConsortium/mixs) | ![](https://img.shields.io/github/stars/GenomicsStandardsConsortium/mixs?style=flat-square) | ⭐ C | Minimum Information about any (X) Sequence” (MIxS) specification |
 | [jbrowse-components](https://github.com/GMOD/jbrowse-components) | ![](https://img.shields.io/github/stars/GMOD/jbrowse-components?style=flat-square) | ⭐ C | Source code for JBrowse 2, a modern React-based genome browser |
+| [fgumi](https://github.com/fulcrumgenomics/fgumi) | ![](https://img.shields.io/github/stars/fulcrumgenomics/fgumi?style=flat-square) | ⭐ C | High-performance UMI tools for NGS data analysis |
 | [phaseimpute](https://github.com/nf-core/phaseimpute) | ![](https://img.shields.io/github/stars/nf-core/phaseimpute?style=flat-square) | ⭐ C | A bioinformatics pipeline to phase and impute genetic data |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | ⭐ C | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 | [biopython](https://github.com/biopython/biopython) | ![](https://img.shields.io/github/stars/biopython/biopython?style=flat-square) | ⭐ C | Official git repository for Biopython (originally converted from CVS) |
