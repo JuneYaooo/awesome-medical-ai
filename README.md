@@ -138,6 +138,7 @@
 | [dicomviewer](https://github.com/ayselafsar/dicomviewer) | ![](https://img.shields.io/github/stars/ayselafsar/dicomviewer?style=flat-square) | ⭐ C+ | DICOM Viewer integrated into Nextcloud — view, annotate, and share medical images directly from your self-hosted cloud storage with zero external dependencies. |
 | [mne-cpp](https://github.com/mne-tools/mne-cpp) | ![](https://img.shields.io/github/stars/mne-tools/mne-cpp?style=flat-square) | ⭐ C | MNE-CPP: The C++ framework for real-time functional brain imaging. |
 | [Viewers](https://github.com/OHIF/Viewers) | ![](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square) | ⭐ C | OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages |
+| [UniMedVL](https://github.com/uni-medical/UniMedVL) | ![](https://img.shields.io/github/stars/uni-medical/UniMedVL?style=flat-square) | ⭐ C | Official implementation of "UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis" - A unified medical vision-language model that integrates mult... |
 
 ---
 
@@ -337,6 +338,8 @@
 | [phaseimpute](https://github.com/nf-core/phaseimpute) | ![](https://img.shields.io/github/stars/nf-core/phaseimpute?style=flat-square) | ⭐ C | A bioinformatics pipeline to phase and impute genetic data |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | ⭐ C | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 | [biopython](https://github.com/biopython/biopython) | ![](https://img.shields.io/github/stars/biopython/biopython?style=flat-square) | ⭐ C | Official git repository for Biopython (originally converted from CVS) |
+| [snputils](https://github.com/AI-sandbox/snputils) | ![](https://img.shields.io/github/stars/AI-sandbox/snputils?style=flat-square) | ⭐ C | Python toolkit for fast genotype I/O, ancestry analysis, population-genetics statistics, genotype QC, GWAS, and visualization |
+| [hail](https://github.com/hail-is/hail) | ![](https://img.shields.io/github/stars/hail-is/hail?style=flat-square) | ⭐ C | Cloud-native genomic dataframes and batch computing |
 | [fgbio](https://github.com/fulcrumgenomics/fgbio) | ![](https://img.shields.io/github/stars/fulcrumgenomics/fgbio?style=flat-square) | ⭐ C | Tools for working with genomic and high throughput sequencing data. |
 
 ---
