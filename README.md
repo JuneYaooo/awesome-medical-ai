@@ -139,6 +139,7 @@
 | [mne-cpp](https://github.com/mne-tools/mne-cpp) | ![](https://img.shields.io/github/stars/mne-tools/mne-cpp?style=flat-square) | ⭐ C | MNE-CPP: The C++ framework for real-time functional brain imaging. |
 | [Viewers](https://github.com/OHIF/Viewers) | ![](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square) | ⭐ C | OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages |
 | [UniMedVL](https://github.com/uni-medical/UniMedVL) | ![](https://img.shields.io/github/stars/uni-medical/UniMedVL?style=flat-square) | ⭐ C | Official implementation of "UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis" - A unified medical vision-language model that integrates mult... |
+| [invesalius3](https://github.com/invesalius/invesalius3) | ![](https://img.shields.io/github/stars/invesalius/invesalius3?style=flat-square) | ⭐ C | 3D medical imaging reconstruction software |
 
 ---
 
@@ -341,6 +342,9 @@
 | [snputils](https://github.com/AI-sandbox/snputils) | ![](https://img.shields.io/github/stars/AI-sandbox/snputils?style=flat-square) | ⭐ C | Python toolkit for fast genotype I/O, ancestry analysis, population-genetics statistics, genotype QC, GWAS, and visualization |
 | [hail](https://github.com/hail-is/hail) | ![](https://img.shields.io/github/stars/hail-is/hail?style=flat-square) | ⭐ C | Cloud-native genomic dataframes and batch computing |
 | [fgbio](https://github.com/fulcrumgenomics/fgbio) | ![](https://img.shields.io/github/stars/fulcrumgenomics/fgbio?style=flat-square) | ⭐ C | Tools for working with genomic and high throughput sequencing data. |
+| [dada2](https://github.com/benjjneb/dada2) | ![](https://img.shields.io/github/stars/benjjneb/dada2?style=flat-square) | ⭐ C | Accurate sample inference from amplicon data with single nucleotide resolution |
+| [GCModeller](https://github.com/SMRUCC/GCModeller) | ![](https://img.shields.io/github/stars/SMRUCC/GCModeller?style=flat-square) | ⭐ C | GCModeller: genomics CAD(Computer Assistant Design) Modeller system in .NET language |
+| [BBTools](https://github.com/bbushnell/BBTools) | ![](https://img.shields.io/github/stars/bbushnell/BBTools?style=flat-square) | ⭐ C | BBTools: Official suite of fast, multithreaded bioinformatics tools for DNA/RNA analysis. BBMap aligner, BBDuk trimmer, BBMerge, and 90+ other tools. Actively maintained by Brian Bushnell. |
 
 ---
 
