@@ -268,6 +268,7 @@
 | [TrialMatchAI](https://github.com/cbib/TrialMatchAI) | ![](https://img.shields.io/github/stars/cbib/TrialMatchAI?style=flat-square) | ⭐ C | TrialMatchAI leverages large language models to streamline clinical trial matching by evaluating patient-specific clinical characteristics against trial eligibility criteria and generating relevant... |
 | [dentalpin](https://github.com/martinezsalmeron/dentalpin) | ![](https://img.shields.io/github/stars/martinezsalmeron/dentalpin?style=flat-square) | ⭐ C | The open source agentic dental software. Built for AI. |
 | [kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) | ![](https://img.shields.io/github/stars/ohs-foundation/kotlin-fhir?style=flat-square) | ⭐ C | Kotlin FHIR is a lean and fast implementation of the HL7® FHIR® data model on Kotlin Multiplatform. |
+| [fhir-gateway](https://github.com/ohs-foundation/fhir-gateway) | ![](https://img.shields.io/github/stars/ohs-foundation/fhir-gateway?style=flat-square) | ⭐ C | A generic proxy server for applying access-control policies for a FHIR-store. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -345,6 +346,8 @@
 | [dada2](https://github.com/benjjneb/dada2) | ![](https://img.shields.io/github/stars/benjjneb/dada2?style=flat-square) | ⭐ C | Accurate sample inference from amplicon data with single nucleotide resolution |
 | [GCModeller](https://github.com/SMRUCC/GCModeller) | ![](https://img.shields.io/github/stars/SMRUCC/GCModeller?style=flat-square) | ⭐ C | GCModeller: genomics CAD(Computer Assistant Design) Modeller system in .NET language |
 | [BBTools](https://github.com/bbushnell/BBTools) | ![](https://img.shields.io/github/stars/bbushnell/BBTools?style=flat-square) | ⭐ C | BBTools: Official suite of fast, multithreaded bioinformatics tools for DNA/RNA analysis. BBMap aligner, BBDuk trimmer, BBMerge, and 90+ other tools. Actively maintained by Brian Bushnell. |
+| [cpgtools](https://github.com/liguowang/cpgtools) | ![](https://img.shields.io/github/stars/liguowang/cpgtools?style=flat-square) | ⭐ C | Python package to analyze DNA methylation data |
+| [bwa](https://github.com/lh3/bwa) | ![](https://img.shields.io/github/stars/lh3/bwa?style=flat-square) | ⭐ C | Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment) |
 
 ---
 
