@@ -348,6 +348,10 @@
 | [BBTools](https://github.com/bbushnell/BBTools) | ![](https://img.shields.io/github/stars/bbushnell/BBTools?style=flat-square) | ⭐ C | BBTools: Official suite of fast, multithreaded bioinformatics tools for DNA/RNA analysis. BBMap aligner, BBDuk trimmer, BBMerge, and 90+ other tools. Actively maintained by Brian Bushnell. |
 | [cpgtools](https://github.com/liguowang/cpgtools) | ![](https://img.shields.io/github/stars/liguowang/cpgtools?style=flat-square) | ⭐ C | Python package to analyze DNA methylation data |
 | [bwa](https://github.com/lh3/bwa) | ![](https://img.shields.io/github/stars/lh3/bwa?style=flat-square) | ⭐ C | Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment) |
+| [gatk-sv](https://github.com/broadinstitute/gatk-sv) | ![](https://img.shields.io/github/stars/broadinstitute/gatk-sv?style=flat-square) | ⭐ C | A structural variation pipeline for short-read sequencing |
+| [galaxy](https://github.com/galaxyproject/galaxy) | ![](https://img.shields.io/github/stars/galaxyproject/galaxy?style=flat-square) | ⭐ C | Data intensive science for everyone. |
+| [jcvi](https://github.com/tanghaibao/jcvi) | ![](https://img.shields.io/github/stars/tanghaibao/jcvi?style=flat-square) | ⭐ C | Python library to facilitate genome assembly, annotation, and comparative genomics |
+| [hifiasm](https://github.com/chhylp123/hifiasm) | ![](https://img.shields.io/github/stars/chhylp123/hifiasm?style=flat-square) | ⭐ C | Hifiasm: a haplotype-resolved assembler for accurate Hifi reads |
 
 ---
 
