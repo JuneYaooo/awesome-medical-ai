@@ -355,6 +355,8 @@
 | [hifiasm](https://github.com/chhylp123/hifiasm) | ![](https://img.shields.io/github/stars/chhylp123/hifiasm?style=flat-square) | ⭐ C | Hifiasm: a haplotype-resolved assembler for accurate Hifi reads |
 | [dee2](https://github.com/markziemann/dee2) | ![](https://img.shields.io/github/stars/markziemann/dee2?style=flat-square) | ⭐ C | Digital Expression Explorer 2 (DEE2): a repository of uniformly processed RNA-seq data |
 | [minimap2](https://github.com/lh3/minimap2) | ![](https://img.shields.io/github/stars/lh3/minimap2?style=flat-square) | ⭐ C | A versatile pairwise aligner for genomic and spliced nucleotide sequences |
+| [arda](https://github.com/antigenomics/arda) | ![](https://img.shields.io/github/stars/antigenomics/arda?style=flat-square) | ⭐ C | High-throughput mapping and domain partitioning of antigen receptor sequences |
+| [pyfaidx](https://github.com/mdshw5/pyfaidx) | ![](https://img.shields.io/github/stars/mdshw5/pyfaidx?style=flat-square) | ⭐ C | Efficient pythonic random access to fasta subsequences |
 
 ---
 
