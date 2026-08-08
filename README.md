@@ -357,6 +357,8 @@
 | [minimap2](https://github.com/lh3/minimap2) | ![](https://img.shields.io/github/stars/lh3/minimap2?style=flat-square) | ⭐ C | A versatile pairwise aligner for genomic and spliced nucleotide sequences |
 | [arda](https://github.com/antigenomics/arda) | ![](https://img.shields.io/github/stars/antigenomics/arda?style=flat-square) | ⭐ C | High-throughput mapping and domain partitioning of antigen receptor sequences |
 | [pyfaidx](https://github.com/mdshw5/pyfaidx) | ![](https://img.shields.io/github/stars/mdshw5/pyfaidx?style=flat-square) | ⭐ C | Efficient pythonic random access to fasta subsequences |
+| [lacuna-elimination](https://github.com/spyare-git/lacuna-elimination) | ![](https://img.shields.io/github/stars/spyare-git/lacuna-elimination?style=flat-square) | ⭐ C | Falsification-Driven Biological Law Engine 2026 — Rejected 194 of 203 Candidates |
+| [bowtie2](https://github.com/BenLangmead/bowtie2) | ![](https://img.shields.io/github/stars/BenLangmead/bowtie2?style=flat-square) | ⭐ C | A fast and sensitive gapped read aligner |
 
 ---
 
