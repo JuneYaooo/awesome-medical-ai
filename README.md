@@ -359,6 +359,9 @@
 | [pyfaidx](https://github.com/mdshw5/pyfaidx) | ![](https://img.shields.io/github/stars/mdshw5/pyfaidx?style=flat-square) | ⭐ C | Efficient pythonic random access to fasta subsequences |
 | [lacuna-elimination](https://github.com/spyare-git/lacuna-elimination) | ![](https://img.shields.io/github/stars/spyare-git/lacuna-elimination?style=flat-square) | ⭐ C | Falsification-Driven Biological Law Engine 2026 — Rejected 194 of 203 Candidates |
 | [bowtie2](https://github.com/BenLangmead/bowtie2) | ![](https://img.shields.io/github/stars/BenLangmead/bowtie2?style=flat-square) | ⭐ C | A fast and sensitive gapped read aligner |
+| [hgvs](https://github.com/biocommons/hgvs) | ![](https://img.shields.io/github/stars/biocommons/hgvs?style=flat-square) | ⭐ C | Python library to parse, format, validate, normalize, and map sequence variants according to HGVS Nomenclature (https://hgvs-nomenclature.org/). |
+| [seqfu2](https://github.com/telatin/seqfu2) | ![](https://img.shields.io/github/stars/telatin/seqfu2?style=flat-square) | ⭐ C | :rocket: seqfu - Sequece Fastx Utilities |
+| [vcfanno](https://github.com/brentp/vcfanno) | ![](https://img.shields.io/github/stars/brentp/vcfanno?style=flat-square) | ⭐ C | annotate a VCF with other VCFs/BEDs/tabixed files |
 
 ---
 
