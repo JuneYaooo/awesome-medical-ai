@@ -362,6 +362,7 @@
 | [hgvs](https://github.com/biocommons/hgvs) | ![](https://img.shields.io/github/stars/biocommons/hgvs?style=flat-square) | ⭐ C | Python library to parse, format, validate, normalize, and map sequence variants according to HGVS Nomenclature (https://hgvs-nomenclature.org/). |
 | [seqfu2](https://github.com/telatin/seqfu2) | ![](https://img.shields.io/github/stars/telatin/seqfu2?style=flat-square) | ⭐ C | :rocket: seqfu - Sequece Fastx Utilities |
 | [vcfanno](https://github.com/brentp/vcfanno) | ![](https://img.shields.io/github/stars/brentp/vcfanno?style=flat-square) | ⭐ C | annotate a VCF with other VCFs/BEDs/tabixed files |
+| [gbdraw](https://github.com/satoshikawato/gbdraw) | ![](https://img.shields.io/github/stars/satoshikawato/gbdraw?style=flat-square) | ⭐ C | A genome diagram generator for microbes and organelles |
 
 ---
 
