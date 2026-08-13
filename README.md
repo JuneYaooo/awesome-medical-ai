@@ -141,6 +141,7 @@
 | [UniMedVL](https://github.com/uni-medical/UniMedVL) | ![](https://img.shields.io/github/stars/uni-medical/UniMedVL?style=flat-square) | ⭐ C | Official implementation of "UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis" - A unified medical vision-language model that integrates mult... |
 | [invesalius3](https://github.com/invesalius/invesalius3) | ![](https://img.shields.io/github/stars/invesalius/invesalius3?style=flat-square) | ⭐ C | 3D medical imaging reconstruction software |
 | [cirosantilli](https://github.com/cirosantilli/cirosantilli) | ![](https://img.shields.io/github/stars/cirosantilli/cirosantilli?style=flat-square) | ⭐ C | 小粉红小朋友们，新issue 在这儿开： https://github.com/cirosantilli/china-dictatorship/issues # 21世纪新政宣言（2020年4月5曰笫四次修改稿)（2020年6月19曰第七次修改，以下“【】”内文字为非正文内容的说明）20世纪苏联的消亡和东欧的大变革，使这21世纪初的现中国大陆成为世界关注的最主要焦点和影响新世纪文明发展的关键... |
+| [DicomVisionClient](https://github.com/l5769389/DicomVisionClient) | ![](https://img.shields.io/github/stars/l5769389/DicomVisionClient?style=flat-square) | ⭐ C | DicomVision 是一套面向 DICOM 影像浏览、重建、测量、质量分析、元数据检查、对比阅片与脱敏导出的 C/S 阅片工具，支持 Stack 切片阅览、Stack 双序列对比、MPR/斜切 MPR、4D 时相播放、服务端 3D 体渲染、DICOM 标签检查与修改、DICOM 脱敏导出、ROI 测量、MTF/FWHM 分析、水模 QA、图像导出、深浅主题切换，并可分别部署为浏览器 We... |
 
 ---
 
@@ -363,6 +364,7 @@
 | [seqfu2](https://github.com/telatin/seqfu2) | ![](https://img.shields.io/github/stars/telatin/seqfu2?style=flat-square) | ⭐ C | :rocket: seqfu - Sequece Fastx Utilities |
 | [vcfanno](https://github.com/brentp/vcfanno) | ![](https://img.shields.io/github/stars/brentp/vcfanno?style=flat-square) | ⭐ C | annotate a VCF with other VCFs/BEDs/tabixed files |
 | [gbdraw](https://github.com/satoshikawato/gbdraw) | ![](https://img.shields.io/github/stars/satoshikawato/gbdraw?style=flat-square) | ⭐ C | A genome diagram generator for microbes and organelles |
+| [phables](https://github.com/Vini2/phables) | ![](https://img.shields.io/github/stars/Vini2/phables?style=flat-square) | ⭐ C | 🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes |
 
 ---
 
