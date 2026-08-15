@@ -365,6 +365,8 @@
 | [vcfanno](https://github.com/brentp/vcfanno) | ![](https://img.shields.io/github/stars/brentp/vcfanno?style=flat-square) | ⭐ C | annotate a VCF with other VCFs/BEDs/tabixed files |
 | [gbdraw](https://github.com/satoshikawato/gbdraw) | ![](https://img.shields.io/github/stars/satoshikawato/gbdraw?style=flat-square) | ⭐ C | A genome diagram generator for microbes and organelles |
 | [phables](https://github.com/Vini2/phables) | ![](https://img.shields.io/github/stars/Vini2/phables?style=flat-square) | ⭐ C | 🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes |
+| [vdjtools](https://github.com/antigenomics/vdjtools) | ![](https://img.shields.io/github/stars/antigenomics/vdjtools?style=flat-square) | ⭐ C | Analysis of immune repertoire sequencing results |
+| [chorus](https://github.com/pinellolab/chorus) | ![](https://img.shields.io/github/stars/pinellolab/chorus?style=flat-square) | ⭐ C | One interface to nine genomic deep-learning oracles — variant effect prediction, calibrated per-track percentiles, and plain-English analysis through MCP. |
 
 ---
 
