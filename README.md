@@ -367,6 +367,7 @@
 | [phables](https://github.com/Vini2/phables) | ![](https://img.shields.io/github/stars/Vini2/phables?style=flat-square) | ⭐ C | 🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes |
 | [vdjtools](https://github.com/antigenomics/vdjtools) | ![](https://img.shields.io/github/stars/antigenomics/vdjtools?style=flat-square) | ⭐ C | Analysis of immune repertoire sequencing results |
 | [chorus](https://github.com/pinellolab/chorus) | ![](https://img.shields.io/github/stars/pinellolab/chorus?style=flat-square) | ⭐ C | One interface to nine genomic deep-learning oracles — variant effect prediction, calibrated per-track percentiles, and plain-English analysis through MCP. |
+| [bystro](https://github.com/bystrogenomics/bystro) | ![](https://img.shields.io/github/stars/bystrogenomics/bystro?style=flat-square) | ⭐ C | Natural Language Search and Analysis of High Dimensional Genomic Data |
 
 ---
 
