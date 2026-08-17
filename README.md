@@ -271,6 +271,7 @@
 | [dentalpin](https://github.com/martinezsalmeron/dentalpin) | ![](https://img.shields.io/github/stars/martinezsalmeron/dentalpin?style=flat-square) | ⭐ C | The open source agentic dental software. Built for AI. |
 | [kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) | ![](https://img.shields.io/github/stars/ohs-foundation/kotlin-fhir?style=flat-square) | ⭐ C | Kotlin FHIR is a lean and fast implementation of the HL7® FHIR® data model on Kotlin Multiplatform. |
 | [fhir-gateway](https://github.com/ohs-foundation/fhir-gateway) | ![](https://img.shields.io/github/stars/ohs-foundation/fhir-gateway?style=flat-square) | ⭐ C | A generic proxy server for applying access-control policies for a FHIR-store. |
+| [mirobody](https://github.com/thetahealth/mirobody) | ![](https://img.shields.io/github/stars/thetahealth/mirobody?style=flat-square) | ⭐ C | The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -367,6 +368,9 @@
 | [phables](https://github.com/Vini2/phables) | ![](https://img.shields.io/github/stars/Vini2/phables?style=flat-square) | ⭐ C | 🫧🧬 From fragmented assemblies to high-quality bacteriophage genomes |
 | [vdjtools](https://github.com/antigenomics/vdjtools) | ![](https://img.shields.io/github/stars/antigenomics/vdjtools?style=flat-square) | ⭐ C | Analysis of immune repertoire sequencing results |
 | [chorus](https://github.com/pinellolab/chorus) | ![](https://img.shields.io/github/stars/pinellolab/chorus?style=flat-square) | ⭐ C | One interface to nine genomic deep-learning oracles — variant effect prediction, calibrated per-track percentiles, and plain-English analysis through MCP. |
+| [autozyme](https://github.com/ElliotXie/autozyme) | ![](https://img.shields.io/github/stars/ElliotXie/autozyme?style=flat-square) | ⭐ C | Autonomous multi-agent framework to optimize scientific software |
+| [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) | ![](https://img.shields.io/github/stars/vijaymasand/PyChem-Pro?style=flat-square) | ⭐ C | PyChem-Pro: 100% Python API, fast, flexible & programmable molecular viewer - 2D and 3D, molecular docking pose viewer, cheminformatics library, molecular descriptor calculator, molecular editor, c... |
+| [polars-bio](https://github.com/biodatageeks/polars-bio) | ![](https://img.shields.io/github/stars/biodatageeks/polars-bio?style=flat-square) | ⭐ C | Blazing-Fast Bioinformatic Operations on Python DataFrames |
 | [bystro](https://github.com/bystrogenomics/bystro) | ![](https://img.shields.io/github/stars/bystrogenomics/bystro?style=flat-square) | ⭐ C | Natural Language Search and Analysis of High Dimensional Genomic Data |
 
 ---
