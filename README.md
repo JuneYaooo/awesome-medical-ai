@@ -372,6 +372,8 @@
 | [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) | ![](https://img.shields.io/github/stars/vijaymasand/PyChem-Pro?style=flat-square) | ⭐ C | PyChem-Pro: 100% Python API, fast, flexible & programmable molecular viewer - 2D and 3D, molecular docking pose viewer, cheminformatics library, molecular descriptor calculator, molecular editor, c... |
 | [polars-bio](https://github.com/biodatageeks/polars-bio) | ![](https://img.shields.io/github/stars/biodatageeks/polars-bio?style=flat-square) | ⭐ C | Blazing-Fast Bioinformatic Operations on Python DataFrames |
 | [bystro](https://github.com/bystrogenomics/bystro) | ![](https://img.shields.io/github/stars/bystrogenomics/bystro?style=flat-square) | ⭐ C | Natural Language Search and Analysis of High Dimensional Genomic Data |
+| [gatk](https://github.com/broadinstitute/gatk) | ![](https://img.shields.io/github/stars/broadinstitute/gatk?style=flat-square) | ⭐ C | Official code repository for GATK versions 4 and up |
+| [lrge](https://github.com/mbhall88/lrge) | ![](https://img.shields.io/github/stars/mbhall88/lrge?style=flat-square) | ⭐ C | Genome size estimation from long read overlaps |
 
 ---
 
