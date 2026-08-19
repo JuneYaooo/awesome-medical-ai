@@ -374,6 +374,7 @@
 | [bystro](https://github.com/bystrogenomics/bystro) | ![](https://img.shields.io/github/stars/bystrogenomics/bystro?style=flat-square) | ⭐ C | Natural Language Search and Analysis of High Dimensional Genomic Data |
 | [gatk](https://github.com/broadinstitute/gatk) | ![](https://img.shields.io/github/stars/broadinstitute/gatk?style=flat-square) | ⭐ C | Official code repository for GATK versions 4 and up |
 | [lrge](https://github.com/mbhall88/lrge) | ![](https://img.shields.io/github/stars/mbhall88/lrge?style=flat-square) | ⭐ C | Genome size estimation from long read overlaps |
+| [muscle](https://github.com/rcedgar/muscle) | ![](https://img.shields.io/github/stars/rcedgar/muscle?style=flat-square) | ⭐ C | Multiple sequence and structure alignment with top benchmark scores scalable to thousands of sequences. Generates replicate alignments, enabling assessment of downstream analyses such as trees and ... |
 
 ---
 
