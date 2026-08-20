@@ -142,6 +142,7 @@
 | [invesalius3](https://github.com/invesalius/invesalius3) | ![](https://img.shields.io/github/stars/invesalius/invesalius3?style=flat-square) | ⭐ C | 3D medical imaging reconstruction software |
 | [cirosantilli](https://github.com/cirosantilli/cirosantilli) | ![](https://img.shields.io/github/stars/cirosantilli/cirosantilli?style=flat-square) | ⭐ C | 小粉红小朋友们，新issue 在这儿开： https://github.com/cirosantilli/china-dictatorship/issues # 21世纪新政宣言（2020年4月5曰笫四次修改稿)（2020年6月19曰第七次修改，以下“【】”内文字为非正文内容的说明）20世纪苏联的消亡和东欧的大变革，使这21世纪初的现中国大陆成为世界关注的最主要焦点和影响新世纪文明发展的关键... |
 | [DicomVisionClient](https://github.com/l5769389/DicomVisionClient) | ![](https://img.shields.io/github/stars/l5769389/DicomVisionClient?style=flat-square) | ⭐ C | DicomVision 是一套面向 DICOM 影像浏览、重建、测量、质量分析、元数据检查、对比阅片与脱敏导出的 C/S 阅片工具，支持 Stack 切片阅览、Stack 双序列对比、MPR/斜切 MPR、4D 时相播放、服务端 3D 体渲染、DICOM 标签检查与修改、DICOM 脱敏导出、ROI 测量、MTF/FWHM 分析、水模 QA、图像导出、深浅主题切换，并可分别部署为浏览器 We... |
+| [cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) | ![](https://img.shields.io/github/stars/cornerstonejs/cornerstone3D?style=flat-square) | ⭐ C | Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer. |
 
 ---
 
@@ -272,6 +273,7 @@
 | [kotlin-fhir](https://github.com/ohs-foundation/kotlin-fhir) | ![](https://img.shields.io/github/stars/ohs-foundation/kotlin-fhir?style=flat-square) | ⭐ C | Kotlin FHIR is a lean and fast implementation of the HL7® FHIR® data model on Kotlin Multiplatform. |
 | [fhir-gateway](https://github.com/ohs-foundation/fhir-gateway) | ![](https://img.shields.io/github/stars/ohs-foundation/fhir-gateway?style=flat-square) | ⭐ C | A generic proxy server for applying access-control policies for a FHIR-store. |
 | [mirobody](https://github.com/thetahealth/mirobody) | ![](https://img.shields.io/github/stars/thetahealth/mirobody?style=flat-square) | ⭐ C | The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics. |
+| [HasteHealth](https://github.com/HasteHealth/HasteHealth) | ![](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square) | ⭐ C | Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -374,6 +376,8 @@
 | [bystro](https://github.com/bystrogenomics/bystro) | ![](https://img.shields.io/github/stars/bystrogenomics/bystro?style=flat-square) | ⭐ C | Natural Language Search and Analysis of High Dimensional Genomic Data |
 | [gatk](https://github.com/broadinstitute/gatk) | ![](https://img.shields.io/github/stars/broadinstitute/gatk?style=flat-square) | ⭐ C | Official code repository for GATK versions 4 and up |
 | [lrge](https://github.com/mbhall88/lrge) | ![](https://img.shields.io/github/stars/mbhall88/lrge?style=flat-square) | ⭐ C | Genome size estimation from long read overlaps |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2) | ![](https://img.shields.io/github/stars/soedinglab/MMseqs2?style=flat-square) | ⭐ C | MMseqs2: ultra fast and sensitive search and clustering suite |
+| [workflows](https://github.com/stjudecloud/workflows) | ![](https://img.shields.io/github/stars/stjudecloud/workflows?style=flat-square) | ⭐ C | Bioinformatics workflows developed for and used on the St. Jude Cloud project. |
 | [muscle](https://github.com/rcedgar/muscle) | ![](https://img.shields.io/github/stars/rcedgar/muscle?style=flat-square) | ⭐ C | Multiple sequence and structure alignment with top benchmark scores scalable to thousands of sequences. Generates replicate alignments, enabling assessment of downstream analyses such as trees and ... |
 
 ---
