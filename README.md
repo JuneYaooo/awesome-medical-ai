@@ -276,6 +276,7 @@
 | [mirobody](https://github.com/thetahealth/mirobody) | ![](https://img.shields.io/github/stars/thetahealth/mirobody?style=flat-square) | ⭐ C | The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics. |
 | [HasteHealth](https://github.com/HasteHealth/HasteHealth) | ![](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square) | ⭐ C | Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents. |
 | [odyssey](https://github.com/VectorInstitute/odyssey) | ![](https://img.shields.io/github/stars/VectorInstitute/odyssey?style=flat-square) | ⭐ C | An interpretable foundation model of the patient clinical timeline: event forecasting, calibrated time-to-event alerts, and concept-level interpretability, benchmarked head-to-head against tuned GB... |
+| [dentalpin](https://github.com/dentalpin/dentalpin) | ![](https://img.shields.io/github/stars/dentalpin/dentalpin?style=flat-square) | ⭐ C | The open source agentic dental software. Built for AI. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
