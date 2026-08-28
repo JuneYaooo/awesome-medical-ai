@@ -382,6 +382,7 @@
 | [MMseqs2](https://github.com/soedinglab/MMseqs2) | ![](https://img.shields.io/github/stars/soedinglab/MMseqs2?style=flat-square) | ⭐ C | MMseqs2: ultra fast and sensitive search and clustering suite |
 | [workflows](https://github.com/stjudecloud/workflows) | ![](https://img.shields.io/github/stars/stjudecloud/workflows?style=flat-square) | ⭐ C | Bioinformatics workflows developed for and used on the St. Jude Cloud project. |
 | [muscle](https://github.com/rcedgar/muscle) | ![](https://img.shields.io/github/stars/rcedgar/muscle?style=flat-square) | ⭐ C | Multiple sequence and structure alignment with top benchmark scores scalable to thousands of sequences. Generates replicate alignments, enabling assessment of downstream analyses such as trees and ... |
+| [canvasXpress](https://github.com/neuhausi/canvasXpress) | ![](https://img.shields.io/github/stars/neuhausi/canvasXpress?style=flat-square) | ⭐ C | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. |
 
 ---
 
