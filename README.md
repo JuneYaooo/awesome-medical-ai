@@ -384,6 +384,7 @@
 | [muscle](https://github.com/rcedgar/muscle) | ![](https://img.shields.io/github/stars/rcedgar/muscle?style=flat-square) | ⭐ C | Multiple sequence and structure alignment with top benchmark scores scalable to thousands of sequences. Generates replicate alignments, enabling assessment of downstream analyses such as trees and ... |
 | [canvasXpress](https://github.com/neuhausi/canvasXpress) | ![](https://img.shields.io/github/stars/neuhausi/canvasXpress?style=flat-square) | ⭐ C | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. |
 | [openoncology](https://github.com/immortal71/openoncology) | ![](https://img.shields.io/github/stars/immortal71/openoncology?style=flat-square) | ⭐ C | Open-source precision oncology platform that ranks FDA-approved and repurposing drug candidates from a patient's variant profile using OncoKB, AlphaMissense, OpenTargets and ChEMBL evidence. Blinde... |
+| [cyvcf2](https://github.com/brentp/cyvcf2) | ![](https://img.shields.io/github/stars/brentp/cyvcf2?style=flat-square) | ⭐ C | cython + htslib == fast VCF and BCF processing |
 
 ---
 
