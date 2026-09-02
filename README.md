@@ -385,6 +385,8 @@
 | [canvasXpress](https://github.com/neuhausi/canvasXpress) | ![](https://img.shields.io/github/stars/neuhausi/canvasXpress?style=flat-square) | ⭐ C | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. |
 | [openoncology](https://github.com/immortal71/openoncology) | ![](https://img.shields.io/github/stars/immortal71/openoncology?style=flat-square) | ⭐ C | Open-source precision oncology platform that ranks FDA-approved and repurposing drug candidates from a patient's variant profile using OncoKB, AlphaMissense, OpenTargets and ChEMBL evidence. Blinde... |
 | [cyvcf2](https://github.com/brentp/cyvcf2) | ![](https://img.shields.io/github/stars/brentp/cyvcf2?style=flat-square) | ⭐ C | cython + htslib == fast VCF and BCF processing |
+| [craftgrn](https://github.com/oncologylab/craftgrn) | ![](https://img.shields.io/github/stars/oncologylab/craftgrn?style=flat-square) | ⭐ C | Combined RNA and ATAC Footprint Training of Gene Regulatory Network |
+| [gor](https://github.com/gorpipe/gor) | ![](https://img.shields.io/github/stars/gorpipe/gor?style=flat-square) | ⭐ C | GORpipe is a tool based on a genomic ordered relational architecture and allows analysis of large sets of genomic and phenotypic tabular data using declarative query language, in a parallel executi... |
 
 ---
 
