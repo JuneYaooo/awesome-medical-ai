@@ -389,6 +389,7 @@
 | [craftgrn](https://github.com/oncologylab/craftgrn) | ![](https://img.shields.io/github/stars/oncologylab/craftgrn?style=flat-square) | ⭐ C | Combined RNA and ATAC Footprint Training of Gene Regulatory Network |
 | [gor](https://github.com/gorpipe/gor) | ![](https://img.shields.io/github/stars/gorpipe/gor?style=flat-square) | ⭐ C | GORpipe is a tool based on a genomic ordered relational architecture and allows analysis of large sets of genomic and phenotypic tabular data using declarative query language, in a parallel executi... |
 | [pysam](https://github.com/pysam-developers/pysam) | ![](https://img.shields.io/github/stars/pysam-developers/pysam?style=flat-square) | ⭐ C | Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtool... |
+| [tskit](https://github.com/tskit-dev/tskit) | ![](https://img.shields.io/github/stars/tskit-dev/tskit?style=flat-square) | ⭐ C | Population-scale Ancestral Recombination Graph (ARG) library |
 
 ---
 
