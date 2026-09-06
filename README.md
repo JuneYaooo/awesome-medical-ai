@@ -248,6 +248,7 @@
 | [MR4CPS](https://github.com/peihuacher/MR4CPS) | ![](https://img.shields.io/github/stars/peihuacher/MR4CPS?style=flat-square) | ⭐ C | MR4CPS is a Portable AI-powered Mixed Reality system for Clinical Procedural Skills training. Here we document how we integrate LLM into mr4cps. |
 | [medical-voice-agent](https://github.com/ibrahimhamwi99/medical-voice-agent) | ![](https://img.shields.io/github/stars/ibrahimhamwi99/medical-voice-agent?style=flat-square) | ⭐ C | 🤖 Streamline appointment management with an AI voice agent that handles calls, schedules, and integrates seamlessly with EHR systems for medical practices. |
 | [MedSync-AI](https://github.com/tirth-patel06/MedSync-AI) | ![](https://img.shields.io/github/stars/tirth-patel06/MedSync-AI?style=flat-square) | ⭐ C+ | Medication-adherence assistant with a React/Express stack, reminders, drug interaction checks, report analysis, and AI health agents. Includes architecture, security, and EHR/wearable integration docs. |
+| [Obesity Level Prediction with Explainable AI](https://github.com/hee289427-wq/obesity-xai-prediction) | [![](https://img.shields.io/github/stars/hee289427-wq/obesity-xai-prediction?style=flat-square)](https://github.com/hee289427-wq/obesity-xai-prediction/stargazers) | ⭐ C | Explainable obesity-level prediction web application using Random Forest, SHAP waterfall explanations, what-if counterfactual analysis, Gradio, and a live Render demo. |
 
 > Open-source clinical systems, EMR editors, and hospital information systems.
 
