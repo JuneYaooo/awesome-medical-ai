@@ -74,6 +74,7 @@
 | [LLM-Nursing-Training](https://github.com/mrpanzerr/LLM-Nursing-Training) | ![](https://img.shields.io/github/stars/mrpanzerr/LLM-Nursing-Training?style=flat-square) | ⭐ C | LLM Video Avatar for training nursing students through AI-driven simulations. Progresses from text-to-text to video-to-video interactions. Adaptive scenarios powered by GPT-4o enhance clinical skil... |
 | [consultation_registration_cos](https://github.com/Fankekeke/consultation_registration_cos) | ![](https://img.shields.io/github/stars/Fankekeke/consultation_registration_cos?style=flat-square) | ⭐ C | 智慧医疗助手：基于 LLM（大语言模型）的 AI 预诊与在线挂号平台。集成 RAG（检索增强生成）医疗知识库，支持多科室智能分诊与挂号流转。大模型辅助问诊 + 自动化挂号分拨，实时预约排班挂号管理（SpringBoot + Vue 全栈） |
 | [Med-PaLM](https://github.com/kyegomez/Med-PaLM) | ![](https://img.shields.io/github/stars/kyegomez/Med-PaLM?style=flat-square) | Kyegomez | Towards Generalist Biomedical AI |
+| [cyber-doctor](https://github.com/ZeroTang05/cyber-doctor) | ![](https://img.shields.io/github/stars/ZeroTang05/cyber-doctor?style=flat-square) | ⭐ C | 赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。"Cyber ​​Huatuo" - Easy to build a personal doctor agent based o... |
 
 ---
 
