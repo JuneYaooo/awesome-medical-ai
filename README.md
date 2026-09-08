@@ -279,6 +279,7 @@
 | [HasteHealth](https://github.com/HasteHealth/HasteHealth) | ![](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square) | ⭐ C | Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents. |
 | [odyssey](https://github.com/VectorInstitute/odyssey) | ![](https://img.shields.io/github/stars/VectorInstitute/odyssey?style=flat-square) | ⭐ C | An interpretable foundation model of the patient clinical timeline: event forecasting, calibrated time-to-event alerts, and concept-level interpretability, benchmarked head-to-head against tuned GB... |
 | [dentalpin](https://github.com/dentalpin/dentalpin) | ![](https://img.shields.io/github/stars/dentalpin/dentalpin?style=flat-square) | ⭐ C | The open source agentic dental software. Built for AI. |
+| [genomics-operations](https://github.com/FHIR/genomics-operations) | ![](https://img.shields.io/github/stars/FHIR/genomics-operations?style=flat-square) | ⭐ C | A public reference implementation of HL7 FHIR Genomics Operations (http://build.fhir.org/ig/HL7/genomics-reporting/operations.html) |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -391,6 +392,7 @@
 | [gor](https://github.com/gorpipe/gor) | ![](https://img.shields.io/github/stars/gorpipe/gor?style=flat-square) | ⭐ C | GORpipe is a tool based on a genomic ordered relational architecture and allows analysis of large sets of genomic and phenotypic tabular data using declarative query language, in a parallel executi... |
 | [pysam](https://github.com/pysam-developers/pysam) | ![](https://img.shields.io/github/stars/pysam-developers/pysam?style=flat-square) | ⭐ C | Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtool... |
 | [tskit](https://github.com/tskit-dev/tskit) | ![](https://img.shields.io/github/stars/tskit-dev/tskit?style=flat-square) | ⭐ C | Population-scale Ancestral Recombination Graph (ARG) library |
+| [minimap2-rs](https://github.com/jguhlin/minimap2-rs) | ![](https://img.shields.io/github/stars/jguhlin/minimap2-rs?style=flat-square) | ⭐ C | Rust bindings to minimap2 library |
 
 ---
 
