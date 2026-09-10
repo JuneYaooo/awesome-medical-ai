@@ -146,6 +146,7 @@
 | [cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) | ![](https://img.shields.io/github/stars/cornerstonejs/cornerstone3D?style=flat-square) | ⭐ C | Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer. |
 | [MITK](https://github.com/MITK/MITK) | ![](https://img.shields.io/github/stars/MITK/MITK?style=flat-square) | ⭐ C | The Medical Imaging Interaction Toolkit. |
 | [dicom-server](https://github.com/microsoft/dicom-server) | ![](https://img.shields.io/github/stars/microsoft/dicom-server?style=flat-square) | ⭐ C | OSS Implementation of DICOMweb standard |
+| [dwv-angular](https://github.com/ivmartel/dwv-angular) | ![](https://img.shields.io/github/stars/ivmartel/dwv-angular?style=flat-square) | ⭐ C | Medical image viewer using DWV (DICOM Web Viewer) and Angular. |
 
 ---
 
