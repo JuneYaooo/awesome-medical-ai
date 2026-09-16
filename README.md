@@ -395,6 +395,7 @@
 | [tskit](https://github.com/tskit-dev/tskit) | ![](https://img.shields.io/github/stars/tskit-dev/tskit?style=flat-square) | ⭐ C | Population-scale Ancestral Recombination Graph (ARG) library |
 | [minimap2-rs](https://github.com/jguhlin/minimap2-rs) | ![](https://img.shields.io/github/stars/jguhlin/minimap2-rs?style=flat-square) | ⭐ C | Rust bindings to minimap2 library |
 | [DiffExplorer](https://github.com/JkingYu/DiffExplorer) | ![](https://img.shields.io/github/stars/JkingYu/DiffExplorer?style=flat-square) | ⭐ C | Differential analysis tool for coding-free researchers – instant statistical results and charts, ready for your lab meeting. Just unzip and run! No-coding! |
+| [ngless](https://github.com/ngless-toolkit/ngless) | ![](https://img.shields.io/github/stars/ngless-toolkit/ngless?style=flat-square) | ⭐ C | NGLess: NGS with less work |
 
 ---
 
