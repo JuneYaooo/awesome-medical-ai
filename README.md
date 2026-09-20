@@ -397,6 +397,7 @@
 | [minimap2-rs](https://github.com/jguhlin/minimap2-rs) | ![](https://img.shields.io/github/stars/jguhlin/minimap2-rs?style=flat-square) | ⭐ C | Rust bindings to minimap2 library |
 | [DiffExplorer](https://github.com/JkingYu/DiffExplorer) | ![](https://img.shields.io/github/stars/JkingYu/DiffExplorer?style=flat-square) | ⭐ C | Differential analysis tool for coding-free researchers – instant statistical results and charts, ready for your lab meeting. Just unzip and run! No-coding! |
 | [ngless](https://github.com/ngless-toolkit/ngless) | ![](https://img.shields.io/github/stars/ngless-toolkit/ngless?style=flat-square) | ⭐ C | NGLess: NGS with less work |
+| [SemiBin](https://github.com/BigDataBiology/SemiBin) | ![](https://img.shields.io/github/stars/BigDataBiology/SemiBin?style=flat-square) | ⭐ C | SemiBin: metagenomics binning with self-supervised deep learning |
 
 ---
 
