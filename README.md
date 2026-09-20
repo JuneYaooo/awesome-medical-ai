@@ -424,6 +424,12 @@
 | [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) | 🔧 AI Agent Skills & MCP 服务器（国内版） |
 | [awesome-medical-ai-cn](https://github.com/JuneYaooo/awesome-medical-ai-cn) | 🇨🇳 国内医疗 AI 项目合集 |
 
+### Clinical bedside tools (web)
+
+| Tool | Description |
+|------|-------------|
+| [元医生 / Yuan Doctor](https://www.yuandoctor.com/for-ai/SKILL.md) | Browser-local bedside scores and pathways for licensed clinicians (no patient-data upload). Agent Skill: [/for-ai/SKILL.md](https://www.yuandoctor.com/for-ai/SKILL.md); example [NIHSS](https://www.yuandoctor.com/linchuang/nihss). Developed and reviewed with a tertiary-hospital clinician team. |
+
 ### Standards & Protocols
 
 - [HL7 FHIR](https://www.hl7.org/fhir/) — Fast Healthcare Interoperability Resources
