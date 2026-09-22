@@ -251,6 +251,9 @@
 | [medical-voice-agent](https://github.com/ibrahimhamwi99/medical-voice-agent) | ![](https://img.shields.io/github/stars/ibrahimhamwi99/medical-voice-agent?style=flat-square) | ⭐ C | 🤖 Streamline appointment management with an AI voice agent that handles calls, schedules, and integrates seamlessly with EHR systems for medical practices. |
 | [MedSync-AI](https://github.com/tirth-patel06/MedSync-AI) | ![](https://img.shields.io/github/stars/tirth-patel06/MedSync-AI?style=flat-square) | ⭐ C+ | Medication-adherence assistant with a React/Express stack, reminders, drug interaction checks, report analysis, and AI health agents. Includes architecture, security, and EHR/wearable integration docs. |
 
+| [inflammation-prediction-risk-models](https://github.com/developer-rpai/inflammation-prediction-risk-models) | ![](https://img.shields.io/github/stars/developer-rpai/inflammation-prediction-risk-models?style=flat-square) | ⭐ C+ | Open-source ICU inflammation-risk prediction: gradient boosting + from-scratch NumPy GRU on 48h time-series, fully runnable on synthetic data with tests, docs, and benchmark metrics. |
+| [SIDHA](https://github.com/developer-rpai/sidha) | ![](https://img.shields.io/github/stars/developer-rpai/sidha?style=flat-square) | ⭐ C | Open reference implementation for hidradenitis suppurativa (HS) data: CSV/FHIR/OMOP ingestion, clinical phenotyping, diagnostic-delay analytics, early-detection screener, synthetic cohorts. |
+
 > Open-source clinical systems, EMR editors, and hospital information systems.
 
 | Project | Stars | Description |
