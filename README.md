@@ -398,6 +398,8 @@
 | [DiffExplorer](https://github.com/JkingYu/DiffExplorer) | ![](https://img.shields.io/github/stars/JkingYu/DiffExplorer?style=flat-square) | ⭐ C | Differential analysis tool for coding-free researchers – instant statistical results and charts, ready for your lab meeting. Just unzip and run! No-coding! |
 | [ngless](https://github.com/ngless-toolkit/ngless) | ![](https://img.shields.io/github/stars/ngless-toolkit/ngless?style=flat-square) | ⭐ C | NGLess: NGS with less work |
 | [SemiBin](https://github.com/BigDataBiology/SemiBin) | ![](https://img.shields.io/github/stars/BigDataBiology/SemiBin?style=flat-square) | ⭐ C | SemiBin: metagenomics binning with self-supervised deep learning |
+| [fp-tools](https://github.com/oncologylab/fp-tools) | ![](https://img.shields.io/github/stars/oncologylab/fp-tools?style=flat-square) | ⭐ C | Command-first ATAC-seq footprinting, motif analysis, and reproducible interactive reports |
+| [scikit-bio](https://github.com/scikit-bio/scikit-bio) | ![](https://img.shields.io/github/stars/scikit-bio/scikit-bio?style=flat-square) | ⭐ C | scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources. |
 
 ---
 
