@@ -147,6 +147,7 @@
 | [MITK](https://github.com/MITK/MITK) | ![](https://img.shields.io/github/stars/MITK/MITK?style=flat-square) | ⭐ C | The Medical Imaging Interaction Toolkit. |
 | [dicom-server](https://github.com/microsoft/dicom-server) | ![](https://img.shields.io/github/stars/microsoft/dicom-server?style=flat-square) | ⭐ C | OSS Implementation of DICOMweb standard |
 | [dwv-angular](https://github.com/ivmartel/dwv-angular) | ![](https://img.shields.io/github/stars/ivmartel/dwv-angular?style=flat-square) | ⭐ C | Medical image viewer using DWV (DICOM Web Viewer) and Angular. |
+| [voxenra](https://github.com/l5769389/voxenra) | ![](https://img.shields.io/github/stars/l5769389/voxenra?style=flat-square) | ⭐ C | Cross-platform DICOM viewer for CT, MRI and PET/CT with MPR, 3D volume rendering, fusion, segmentation, measurements, and DICOM SEG/SR export. |
 
 ---
 
@@ -400,6 +401,7 @@
 | [SemiBin](https://github.com/BigDataBiology/SemiBin) | ![](https://img.shields.io/github/stars/BigDataBiology/SemiBin?style=flat-square) | ⭐ C | SemiBin: metagenomics binning with self-supervised deep learning |
 | [fp-tools](https://github.com/oncologylab/fp-tools) | ![](https://img.shields.io/github/stars/oncologylab/fp-tools?style=flat-square) | ⭐ C | Command-first ATAC-seq footprinting, motif analysis, and reproducible interactive reports |
 | [scikit-bio](https://github.com/scikit-bio/scikit-bio) | ![](https://img.shields.io/github/stars/scikit-bio/scikit-bio?style=flat-square) | ⭐ C | scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources. |
+| [vdjdb-db](https://github.com/antigenomics/vdjdb-db) | ![](https://img.shields.io/github/stars/antigenomics/vdjdb-db?style=flat-square) | ⭐ C | Git-based antigen specificity database storage & management. |
 
 ---
 
