@@ -402,6 +402,7 @@
 | [fp-tools](https://github.com/oncologylab/fp-tools) | ![](https://img.shields.io/github/stars/oncologylab/fp-tools?style=flat-square) | ⭐ C | Command-first ATAC-seq footprinting, motif analysis, and reproducible interactive reports |
 | [scikit-bio](https://github.com/scikit-bio/scikit-bio) | ![](https://img.shields.io/github/stars/scikit-bio/scikit-bio?style=flat-square) | ⭐ C | scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources. |
 | [vdjdb-db](https://github.com/antigenomics/vdjdb-db) | ![](https://img.shields.io/github/stars/antigenomics/vdjdb-db?style=flat-square) | ⭐ C | Git-based antigen specificity database storage & management. |
+| [bfx-workshop](https://github.com/genome/bfx-workshop) | ![](https://img.shields.io/github/stars/genome/bfx-workshop?style=flat-square) | ⭐ C | A course on genomics and bioinformatics from WashU |
 
 ---
 
