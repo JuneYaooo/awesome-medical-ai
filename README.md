@@ -403,6 +403,8 @@
 | [scikit-bio](https://github.com/scikit-bio/scikit-bio) | ![](https://img.shields.io/github/stars/scikit-bio/scikit-bio?style=flat-square) | ⭐ C | scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources. |
 | [vdjdb-db](https://github.com/antigenomics/vdjdb-db) | ![](https://img.shields.io/github/stars/antigenomics/vdjdb-db?style=flat-square) | ⭐ C | Git-based antigen specificity database storage & management. |
 | [bfx-workshop](https://github.com/genome/bfx-workshop) | ![](https://img.shields.io/github/stars/genome/bfx-workshop?style=flat-square) | ⭐ C | A course on genomics and bioinformatics from WashU |
+| [biopandas](https://github.com/BioPandas/biopandas) | ![](https://img.shields.io/github/stars/BioPandas/biopandas?style=flat-square) | ⭐ C | Working with molecular structures in pandas DataFrames |
+| [graphein](https://github.com/a-r-j/graphein) | ![](https://img.shields.io/github/stars/a-r-j/graphein?style=flat-square) | ⭐ C | Protein Graph Library |
 
 ---
 
