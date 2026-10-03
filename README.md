@@ -405,6 +405,9 @@
 | [bfx-workshop](https://github.com/genome/bfx-workshop) | ![](https://img.shields.io/github/stars/genome/bfx-workshop?style=flat-square) | ⭐ C | A course on genomics and bioinformatics from WashU |
 | [biopandas](https://github.com/BioPandas/biopandas) | ![](https://img.shields.io/github/stars/BioPandas/biopandas?style=flat-square) | ⭐ C | Working with molecular structures in pandas DataFrames |
 | [graphein](https://github.com/a-r-j/graphein) | ![](https://img.shields.io/github/stars/a-r-j/graphein?style=flat-square) | ⭐ C | Protein Graph Library |
+| [chanjo](https://github.com/Clinical-Genomics/chanjo) | ![](https://img.shields.io/github/stars/Clinical-Genomics/chanjo?style=flat-square) | ⭐ C | Chanjo provides a better way to analyze coverage data in clinical sequencing. |
+| [truvari](https://github.com/ACEnglish/truvari) | ![](https://img.shields.io/github/stars/ACEnglish/truvari?style=flat-square) | ⭐ C | Structural variant toolkit for VCFs |
+| [vep-rs](https://github.com/natera-open-source/vep-rs) | ![](https://img.shields.io/github/stars/natera-open-source/vep-rs?style=flat-square) | ⭐ C | A fast, memory-efficient variant effect predictor written in Rust: a from-scratch reimplementation of the Ensembl Variant Effect Predictor (VEP) that takes the same inputs and flags, emits VEP's co... |
 
 ---
 
