@@ -409,6 +409,7 @@
 | [truvari](https://github.com/ACEnglish/truvari) | ![](https://img.shields.io/github/stars/ACEnglish/truvari?style=flat-square) | ⭐ C | Structural variant toolkit for VCFs |
 | [vep-rs](https://github.com/natera-open-source/vep-rs) | ![](https://img.shields.io/github/stars/natera-open-source/vep-rs?style=flat-square) | ⭐ C | A fast, memory-efficient variant effect predictor written in Rust: a from-scratch reimplementation of the Ensembl Variant Effect Predictor (VEP) that takes the same inputs and flags, emits VEP's co... |
 | [GenEra](https://github.com/josuebarrera/GenEra) | ![](https://img.shields.io/github/stars/josuebarrera/GenEra?style=flat-square) | ⭐ C | genEra is a fast and easy-to-use command-line tool that estimates the age of the last common ancestor of protein-coding gene families. |
+| [GenomicsDB](https://github.com/GenomicsDB/GenomicsDB) | ![](https://img.shields.io/github/stars/GenomicsDB/GenomicsDB?style=flat-square) | ⭐ C | High performance data storage for importing, querying and transforming variants. |
 
 ---
 
