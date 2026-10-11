@@ -411,6 +411,9 @@
 | [GenEra](https://github.com/josuebarrera/GenEra) | ![](https://img.shields.io/github/stars/josuebarrera/GenEra?style=flat-square) | ⭐ C | genEra is a fast and easy-to-use command-line tool that estimates the age of the last common ancestor of protein-coding gene families. |
 | [GenomicsDB](https://github.com/GenomicsDB/GenomicsDB) | ![](https://img.shields.io/github/stars/GenomicsDB/GenomicsDB?style=flat-square) | ⭐ C | High performance data storage for importing, querying and transforming variants. |
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | ![](https://img.shields.io/github/stars/chemosim-lab/ProLIF?style=flat-square) | ⭐ C | Interaction Fingerprints for protein-ligand complexes and more |
+| [DrugTargetWorld](https://github.com/sammargolis/DrugTargetWorld) | ![](https://img.shields.io/github/stars/sammargolis/DrugTargetWorld?style=flat-square) | ⭐ C | DrugTargetWorld: a synthetic biobank for training and benchmarking AI scientists on end-to-end drug target discovery. Paper: arXiv:2610.09558 |
+| [operon](https://github.com/swaruplab/operon) | ![](https://img.shields.io/github/stars/swaruplab/operon?style=flat-square) | ⭐ C | AI-powered IDE for bioinformatics — built by biologists, for biologists |
+| [skani](https://github.com/bluenote-1577/skani) | ![](https://img.shields.io/github/stars/bluenote-1577/skani?style=flat-square) | ⭐ C | Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs. |
 
 ---
 
