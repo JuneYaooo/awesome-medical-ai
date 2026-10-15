@@ -148,6 +148,7 @@
 | [dicom-server](https://github.com/microsoft/dicom-server) | ![](https://img.shields.io/github/stars/microsoft/dicom-server?style=flat-square) | ⭐ C | OSS Implementation of DICOMweb standard |
 | [dwv-angular](https://github.com/ivmartel/dwv-angular) | ![](https://img.shields.io/github/stars/ivmartel/dwv-angular?style=flat-square) | ⭐ C | Medical image viewer using DWV (DICOM Web Viewer) and Angular. |
 | [voxenra](https://github.com/l5769389/voxenra) | ![](https://img.shields.io/github/stars/l5769389/voxenra?style=flat-square) | ⭐ C | Cross-platform DICOM viewer for CT, MRI and PET/CT with MPR, 3D volume rendering, fusion, segmentation, measurements, and DICOM SEG/SR export. |
+| [rplatypus](https://github.com/maju116/rplatypus) | ![](https://img.shields.io/github/stars/maju116/rplatypus?style=flat-square) | ⭐ C | Deep learning for medical images in R: semantic and instance segmentation, object detection, 2D and 3D, DICOM and NIfTI, one specification. |
 
 ---
 
@@ -413,6 +414,7 @@
 | [ProLIF](https://github.com/chemosim-lab/ProLIF) | ![](https://img.shields.io/github/stars/chemosim-lab/ProLIF?style=flat-square) | ⭐ C | Interaction Fingerprints for protein-ligand complexes and more |
 | [DrugTargetWorld](https://github.com/sammargolis/DrugTargetWorld) | ![](https://img.shields.io/github/stars/sammargolis/DrugTargetWorld?style=flat-square) | ⭐ C | DrugTargetWorld: a synthetic biobank for training and benchmarking AI scientists on end-to-end drug target discovery. Paper: arXiv:2610.09558 |
 | [operon](https://github.com/swaruplab/operon) | ![](https://img.shields.io/github/stars/swaruplab/operon?style=flat-square) | ⭐ C | AI-powered IDE for bioinformatics — built by biologists, for biologists |
+| [DRAM](https://github.com/BortonWrightonLabs/DRAM) | ![](https://img.shields.io/github/stars/BortonWrightonLabs/DRAM?style=flat-square) | ⭐ C | Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes |
 | [skani](https://github.com/bluenote-1577/skani) | ![](https://img.shields.io/github/stars/bluenote-1577/skani?style=flat-square) | ⭐ C | Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs. |
 
 ---
