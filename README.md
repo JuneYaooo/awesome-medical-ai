@@ -418,6 +418,7 @@
 | [DRAM](https://github.com/BortonWrightonLabs/DRAM) | ![](https://img.shields.io/github/stars/BortonWrightonLabs/DRAM?style=flat-square) | ⭐ C | Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes |
 | [skani](https://github.com/bluenote-1577/skani) | ![](https://img.shields.io/github/stars/bluenote-1577/skani?style=flat-square) | ⭐ C | Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs. |
 | [GEOquery](https://github.com/seandavi/GEOquery) | ![](https://img.shields.io/github/stars/seandavi/GEOquery?style=flat-square) | ⭐ C | The bridge between the NCBI Gene Expression Omnibus and Bioconductor |
+| [bakta](https://github.com/oschwengers/bakta) | ![](https://img.shields.io/github/stars/oschwengers/bakta?style=flat-square) | ⭐ C | Rapid & standardized annotation of bacterial genomes, MAGs & plasmids |
 
 ---
 
