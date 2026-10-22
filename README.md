@@ -285,6 +285,7 @@
 | [genomics-operations](https://github.com/FHIR/genomics-operations) | ![](https://img.shields.io/github/stars/FHIR/genomics-operations?style=flat-square) | ⭐ C | A public reference implementation of HL7 FHIR Genomics Operations (http://build.fhir.org/ig/HL7/genomics-reporting/operations.html) |
 | [OnCo](https://github.com/judegomila/OnCo) | ![](https://img.shields.io/github/stars/judegomila/OnCo?style=flat-square) | ⭐ C | OnCo: total information dominance on cancer. A public, cited knowledge graph of oncology with a website, JSON API, MCP server and CLI: one page per cancer, treatment, target, trial, institution, pe... |
 | [mirobody-env](https://github.com/thetahealth/mirobody-env) | ![](https://img.shields.io/github/stars/thetahealth/mirobody-env?style=flat-square) | ⭐ C | HAEnv — synthetic longitudinal patients with code-derived gold, for evaluating health agents over time |
+| [Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) | ![](https://img.shields.io/github/stars/healthymind-tech/Taiwan-Health-MCP?style=flat-square) | ⭐ C | 讓 AI agent 讀懂台灣醫療：63 個 MCP 工具，涵蓋 FHIR R4 / TW Core 驗證、ICD-10、SNOMED CT、LOINC、TFDA 藥品與臨床計算器。MCP server for Taiwan healthcare data. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
