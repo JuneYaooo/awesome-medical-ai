@@ -288,6 +288,7 @@
 | [mirobody-env](https://github.com/thetahealth/mirobody-env) | ![](https://img.shields.io/github/stars/thetahealth/mirobody-env?style=flat-square) | ⭐ C | HAEnv — synthetic longitudinal patients with code-derived gold, for evaluating health agents over time |
 | [Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) | ![](https://img.shields.io/github/stars/healthymind-tech/Taiwan-Health-MCP?style=flat-square) | ⭐ C | 讓 AI agent 讀懂台灣醫療：63 個 MCP 工具，涵蓋 FHIR R4 / TW Core 驗證、ICD-10、SNOMED CT、LOINC、TFDA 藥品與臨床計算器。MCP server for Taiwan healthcare data. |
 | [matchminer](https://github.com/dfci/matchminer) | ![](https://img.shields.io/github/stars/dfci/matchminer?style=flat-square) | ⭐ C | Open-source software for clinical trial matching from Dana-Farber Cancer Institute: MatchMiner Genomics, MatchMiner-AI, and MatchMiner Dashboard. |
+| [PyHealth](https://github.com/sunlabuiuc/PyHealth) | ![](https://img.shields.io/github/stars/sunlabuiuc/PyHealth?style=flat-square) | ⭐ C | A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
