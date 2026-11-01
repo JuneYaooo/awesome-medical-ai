@@ -425,6 +425,7 @@
 | [bakta](https://github.com/oschwengers/bakta) | ![](https://img.shields.io/github/stars/oschwengers/bakta?style=flat-square) | ⭐ C | Rapid & standardized annotation of bacterial genomes, MAGs & plasmids |
 | [seqrepo](https://github.com/biocommons/seqrepo) | ![](https://img.shields.io/github/stars/biocommons/seqrepo?style=flat-square) | ⭐ C | non-redundant, compressed, journalled, file-based storage for biological sequences |
 | [Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | ![](https://img.shields.io/github/stars/talharaziq/Advanced-Bioinformatics?style=flat-square) | ⭐ C | A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, a... |
+| [GenomicSQLite](https://github.com/mlin/GenomicSQLite) | ![](https://img.shields.io/github/stars/mlin/GenomicSQLite?style=flat-square) | ⭐ C | Genomics Extension for SQLite |
 
 ---
 
