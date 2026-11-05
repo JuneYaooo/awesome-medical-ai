@@ -426,6 +426,7 @@
 | [seqrepo](https://github.com/biocommons/seqrepo) | ![](https://img.shields.io/github/stars/biocommons/seqrepo?style=flat-square) | ⭐ C | non-redundant, compressed, journalled, file-based storage for biological sequences |
 | [Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | ![](https://img.shields.io/github/stars/talharaziq/Advanced-Bioinformatics?style=flat-square) | ⭐ C | A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, a... |
 | [GenomicSQLite](https://github.com/mlin/GenomicSQLite) | ![](https://img.shields.io/github/stars/mlin/GenomicSQLite?style=flat-square) | ⭐ C | Genomics Extension for SQLite |
+| [somalier](https://github.com/brentp/somalier) | ![](https://img.shields.io/github/stars/brentp/somalier?style=flat-square) | ⭐ C | fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy" |
 
 ---
 
