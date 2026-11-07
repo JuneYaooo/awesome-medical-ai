@@ -303,6 +303,7 @@
 | [CoEval](https://github.com/lunit-io/CoEval) | ![](https://img.shields.io/github/stars/lunit-io/CoEval?style=flat-square) | Medical LLM evaluation framework from Lunit with Hydra-based configs, reproducible benchmarking pipelines, `src/` + `tests/`, and Chain-of-Evidence dataset/metric integrations. |
 | [ScribeGOAT2](https://github.com/GOATnote-Inc/scribegoat2) | ![](https://img.shields.io/github/stars/GOATnote-Inc/scribegoat2?style=flat-square) | Multi-turn medical safety evaluation pipeline with physician-authored scenarios, adversarial persistence testing, versioned claims, security tooling, and a large Python test harness. |
 | [Rveda](https://github.com/anirudw/rveda) | ![](https://img.shields.io/github/stars/anirudw/rveda?style=flat-square) | OpenEnv-compatible benchmark for agentic medical coding. Uses local ICD-10 knowledge, traceable submission flows, Docker packaging, and evaluation loops for hallucination-resistant coding workflows. |
+| [consensus-mcp](https://github.com/Consensus-NLP/consensus-mcp) | ![](https://img.shields.io/github/stars/Consensus-NLP/consensus-mcp?style=flat-square) | ⭐ C | Official Consensus MCP server. Semantic search over 400M+ research papers, including all of PubMed, for Claude, ChatGPT, Cursor and any MCP client. |
 
 ---
 
@@ -426,6 +427,9 @@
 | [seqrepo](https://github.com/biocommons/seqrepo) | ![](https://img.shields.io/github/stars/biocommons/seqrepo?style=flat-square) | ⭐ C | non-redundant, compressed, journalled, file-based storage for biological sequences |
 | [Advanced-Bioinformatics](https://github.com/talharaziq/Advanced-Bioinformatics) | ![](https://img.shields.io/github/stars/talharaziq/Advanced-Bioinformatics?style=flat-square) | ⭐ C | A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, a... |
 | [GenomicSQLite](https://github.com/mlin/GenomicSQLite) | ![](https://img.shields.io/github/stars/mlin/GenomicSQLite?style=flat-square) | ⭐ C | Genomics Extension for SQLite |
+| [SigProfilerMatrixGenerator](https://github.com/SigProfilerSuite/SigProfilerMatrixGenerator) | ![](https://img.shields.io/github/stars/SigProfilerSuite/SigProfilerMatrixGenerator?style=flat-square) | ⭐ C | SigProfilerMatrixGenerator creates mutational matrices for all types of somatic mutations. It allows downsizing the generated mutations only to parts for the genome (e.g., exome or a custom BED fil... |
+| [horus-runtime](https://github.com/temple-compute/horus-runtime) | ![](https://img.shields.io/github/stars/temple-compute/horus-runtime?style=flat-square) | ⭐ C | Run reproducible scientific workflows anywhere (laptop, remote, or HPC cluster) from a single YAML file. The open-source runtime behind Temple Compute. |
+| [ferro-hgvs](https://github.com/fulcrumgenomics/ferro-hgvs) | ![](https://img.shields.io/github/stars/fulcrumgenomics/ferro-hgvs?style=flat-square) | ⭐ C | A high-performance HGVS variant nomenclature parser and normalizer written in Rust |
 | [somalier](https://github.com/brentp/somalier) | ![](https://img.shields.io/github/stars/brentp/somalier?style=flat-square) | ⭐ C | fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy" |
 
 ---
