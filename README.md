@@ -431,6 +431,8 @@
 | [horus-runtime](https://github.com/temple-compute/horus-runtime) | ![](https://img.shields.io/github/stars/temple-compute/horus-runtime?style=flat-square) | ⭐ C | Run reproducible scientific workflows anywhere (laptop, remote, or HPC cluster) from a single YAML file. The open-source runtime behind Temple Compute. |
 | [ferro-hgvs](https://github.com/fulcrumgenomics/ferro-hgvs) | ![](https://img.shields.io/github/stars/fulcrumgenomics/ferro-hgvs?style=flat-square) | ⭐ C | A high-performance HGVS variant nomenclature parser and normalizer written in Rust |
 | [somalier](https://github.com/brentp/somalier) | ![](https://img.shields.io/github/stars/brentp/somalier?style=flat-square) | ⭐ C | fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy" |
+| [SigProfilerExtractor](https://github.com/SigProfilerSuite/SigProfilerExtractor) | ![](https://img.shields.io/github/stars/SigProfilerSuite/SigProfilerExtractor?style=flat-square) | ⭐ C | SigProfilerExtractor allows de novo extraction of mutational signatures from data generated in a matrix format. The tool identifies the number of operative mutational signatures, their activities i... |
+| [vrs-python](https://github.com/ga4gh/vrs-python) | ![](https://img.shields.io/github/stars/ga4gh/vrs-python?style=flat-square) | ⭐ C | GA4GH Variation Representation Python Implementation |
 
 ---
 
