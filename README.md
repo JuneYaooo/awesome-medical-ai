@@ -289,6 +289,7 @@
 | [Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) | ![](https://img.shields.io/github/stars/healthymind-tech/Taiwan-Health-MCP?style=flat-square) | ⭐ C | 讓 AI agent 讀懂台灣醫療：63 個 MCP 工具，涵蓋 FHIR R4 / TW Core 驗證、ICD-10、SNOMED CT、LOINC、TFDA 藥品與臨床計算器。MCP server for Taiwan healthcare data. |
 | [matchminer](https://github.com/dfci/matchminer) | ![](https://img.shields.io/github/stars/dfci/matchminer?style=flat-square) | ⭐ C | Open-source software for clinical trial matching from Dana-Farber Cancer Institute: MatchMiner Genomics, MatchMiner-AI, and MatchMiner Dashboard. |
 | [PyHealth](https://github.com/sunlabuiuc/PyHealth) | ![](https://img.shields.io/github/stars/sunlabuiuc/PyHealth?style=flat-square) | ⭐ C | A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines. |
+| [openrecord](https://github.com/Fan-Pier-Labs/openrecord) | ![](https://img.shields.io/github/stars/Fan-Pier-Labs/openrecord?style=flat-square) | ⭐ C | Let Claude read and manage your Epic MyChart health records — labs, meds, messages, refills, imaging. Claude Desktop extension (MCP server), iOS app, and CLI. Runs on your device. |
 ## NLP & Text Mining
 
 > Medical NLP models and clinical text processing.
@@ -432,6 +433,7 @@
 | [ferro-hgvs](https://github.com/fulcrumgenomics/ferro-hgvs) | ![](https://img.shields.io/github/stars/fulcrumgenomics/ferro-hgvs?style=flat-square) | ⭐ C | A high-performance HGVS variant nomenclature parser and normalizer written in Rust |
 | [somalier](https://github.com/brentp/somalier) | ![](https://img.shields.io/github/stars/brentp/somalier?style=flat-square) | ⭐ C | fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy" |
 | [SigProfilerExtractor](https://github.com/SigProfilerSuite/SigProfilerExtractor) | ![](https://img.shields.io/github/stars/SigProfilerSuite/SigProfilerExtractor?style=flat-square) | ⭐ C | SigProfilerExtractor allows de novo extraction of mutational signatures from data generated in a matrix format. The tool identifies the number of operative mutational signatures, their activities i... |
+| [FinaleToolkit](https://github.com/epifluidlab/FinaleToolkit) | ![](https://img.shields.io/github/stars/epifluidlab/FinaleToolkit?style=flat-square) | ⭐ C | FinaleToolkit is a package and standalone program to extract fragmentation features of cell-free DNA from paired-end sequencing data. |
 | [vrs-python](https://github.com/ga4gh/vrs-python) | ![](https://img.shields.io/github/stars/ga4gh/vrs-python?style=flat-square) | ⭐ C | GA4GH Variation Representation Python Implementation |
 
 ---
