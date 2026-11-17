@@ -436,6 +436,7 @@
 | [FinaleToolkit](https://github.com/epifluidlab/FinaleToolkit) | ![](https://img.shields.io/github/stars/epifluidlab/FinaleToolkit?style=flat-square) | ⭐ C | FinaleToolkit is a package and standalone program to extract fragmentation features of cell-free DNA from paired-end sequencing data. |
 | [vrs-python](https://github.com/ga4gh/vrs-python) | ![](https://img.shields.io/github/stars/ga4gh/vrs-python?style=flat-square) | ⭐ C | GA4GH Variation Representation Python Implementation |
 | [ai-research-publications](https://github.com/aaryansamanta/ai-research-publications) | ![](https://img.shields.io/github/stars/aaryansamanta/ai-research-publications?style=flat-square) | ⭐ C | High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and science-educ... |
+| [ginkgo](https://github.com/robertaboukhalil/ginkgo) | ![](https://img.shields.io/github/stars/robertaboukhalil/ginkgo?style=flat-square) | ⭐ C | Cloud-based single-cell copy-number variation analysis tool |
 
 ---
 
