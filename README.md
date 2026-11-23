@@ -439,6 +439,7 @@
 | [ginkgo](https://github.com/robertaboukhalil/ginkgo) | ![](https://img.shields.io/github/stars/robertaboukhalil/ginkgo?style=flat-square) | ⭐ C | Cloud-based single-cell copy-number variation analysis tool |
 | [teaching](https://github.com/bpucker/teaching) | ![](https://img.shields.io/github/stars/bpucker/teaching?style=flat-square) | ⭐ C | This repository gives an overview of my teaching activities. Links to slides and data sets are included. Feel free to re-use my content. |
 | [orphos](https://github.com/FullHuman/orphos) | ![](https://img.shields.io/github/stars/FullHuman/orphos?style=flat-square) | ⭐ C | Fast, parallel Rust implementation of Prodigal for prokaryotic gene prediction in microbial genomes |
+| [OwnGenome](https://github.com/GeiserX/OwnGenome) | ![](https://img.shields.io/github/stars/GeiserX/OwnGenome?style=flat-square) | ⭐ C | Whole genome sequencing analysis pipeline for consumer hardware. 100% local, Docker-powered, free and open source. |
 
 ---
 
